@@ -1,0 +1,1003 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ANSI_RE	../libs/colorama/ansitowin32.py	/^    ANSI_RE = re.compile('\\033\\[((?:\\d|;)*)([a-zA-Z])')$/;"	kind:variable	line:43
+AboutAsserts	../koans/about_asserts.py	/^class AboutAsserts(Koan):$/;"	kind:class	line:6
+AboutAttributeAccess	../koans/about_attribute_access.py	/^class AboutAttributeAccess(Koan):$/;"	kind:class	line:10
+AboutClassAttributes	../koans/about_class_attributes.py	/^class AboutClassAttributes(Koan):$/;"	kind:class	line:10
+AboutClasses	../koans/about_classes.py	/^class AboutClasses(Koan):$/;"	kind:class	line:7
+AboutComprehension	../koans/about_comprehension.py	/^class AboutComprehension(Koan):$/;"	kind:class	line:7
+AboutControlStatements	../koans/about_control_statements.py	/^class AboutControlStatements(Koan):$/;"	kind:class	line:6
+AboutDecoratingWithClasses	../koans/about_decorating_with_classes.py	/^class AboutDecoratingWithClasses(Koan):$/;"	kind:class	line:8
+AboutDecoratingWithFunctions	../koans/about_decorating_with_functions.py	/^class AboutDecoratingWithFunctions(Koan):$/;"	kind:class	line:7
+AboutDeletingObjects	../koans/about_deleting_objects.py	/^class AboutDeletingObjects(Koan):$/;"	kind:class	line:6
+AboutDiceProject	../koans/about_dice_project.py	/^class AboutDiceProject(Koan):$/;"	kind:class	line:21
+AboutDictionaries	../koans/about_dictionaries.py	/^class AboutDictionaries(Koan):$/;"	kind:class	line:10
+AboutExceptions	../koans/about_exceptions.py	/^class AboutExceptions(Koan):$/;"	kind:class	line:6
+AboutExtraCredit	../koans/about_extra_credit.py	/^class AboutExtraCredit(Koan):$/;"	kind:class	line:15
+AboutFreemasons	../runner/runner_tests/test_sensei.py	/^class AboutFreemasons:$/;"	kind:class	line:29
+AboutGenerators	../koans/about_generators.py	/^class AboutGenerators(Koan):$/;"	kind:class	line:13
+AboutGiantFeet	../runner/runner_tests/test_sensei.py	/^class AboutGiantFeet:$/;"	kind:class	line:25
+AboutInheritance	../koans/about_inheritance.py	/^class AboutInheritance(Koan):$/;"	kind:class	line:6
+AboutIteration	../koans/about_iteration.py	/^class AboutIteration(Koan):$/;"	kind:class	line:6
+AboutLambdas	../koans/about_lambdas.py	/^class AboutLambdas(Koan):$/;"	kind:class	line:10
+AboutListAssignments	../koans/about_list_assignments.py	/^class AboutListAssignments(Koan):$/;"	kind:class	line:10
+AboutLists	../koans/about_lists.py	/^class AboutLists(Koan):$/;"	kind:class	line:10
+AboutLumberjacks	../runner/runner_tests/test_sensei.py	/^class AboutLumberjacks:$/;"	kind:class	line:15
+AboutMessiahs	../runner/runner_tests/test_sensei.py	/^class AboutMessiahs:$/;"	kind:class	line:23
+AboutMethodBindings	../koans/about_method_bindings.py	/^class AboutMethodBindings(Koan):$/;"	kind:class	line:16
+AboutMethods	../koans/about_methods.py	/^class AboutMethods(Koan):$/;"	kind:class	line:13
+AboutModules	../koans/about_modules.py	/^class AboutModules(Koan):$/;"	kind:class	line:15
+AboutMonkeyPatching	../koans/about_monkey_patching.py	/^class AboutMonkeyPatching(Koan):$/;"	kind:class	line:10
+AboutMrGumby	../runner/runner_tests/test_sensei.py	/^class AboutMrGumby:$/;"	kind:class	line:21
+AboutMultipleInheritance	../koans/about_multiple_inheritance.py	/^class AboutMultipleInheritance(Koan):$/;"	kind:class	line:10
+AboutNone	../koans/about_none.py	/^class AboutNone(Koan):$/;"	kind:class	line:10
+AboutPackages	../koans/about_packages.py	/^class AboutPackages(Koan):$/;"	kind:class	line:26
+AboutParrots	../runner/runner_tests/test_sensei.py	/^class AboutParrots:$/;"	kind:class	line:13
+AboutProxyObjectProject	../koans/about_proxy_object_project.py	/^class AboutProxyObjectProject(Koan):$/;"	kind:class	line:32
+AboutRegex	../koans/about_regex.py	/^class AboutRegex(Koan):$/;"	kind:class	line:6
+AboutScope	../koans/about_scope.py	/^class AboutScope(Koan):$/;"	kind:class	line:11
+AboutScoringProject	../koans/about_scoring_project.py	/^class AboutScoringProject(Koan):$/;"	kind:class	line:39
+AboutSets	../koans/about_sets.py	/^class AboutSets(Koan):$/;"	kind:class	line:6
+AboutStringManipulation	../koans/about_string_manipulation.py	/^class AboutStringManipulation(Koan):$/;"	kind:class	line:6
+AboutStrings	../koans/about_strings.py	/^class AboutStrings(Koan):$/;"	kind:class	line:6
+AboutTennis	../runner/runner_tests/test_sensei.py	/^class AboutTennis:$/;"	kind:class	line:17
+AboutTheKnightsWhoSayNi	../runner/runner_tests/test_sensei.py	/^class AboutTheKnightsWhoSayNi:$/;"	kind:class	line:19
+AboutTrebuchets	../runner/runner_tests/test_sensei.py	/^class AboutTrebuchets:$/;"	kind:class	line:27
+AboutTriangleProject	../koans/about_triangle_project.py	/^class AboutTriangleProject(Koan):$/;"	kind:class	line:9
+AboutTriangleProject2	../koans/about_triangle_project2.py	/^class AboutTriangleProject2(Koan):$/;"	kind:class	line:9
+AboutTrueAndFalse	../koans/about_true_and_false.py	/^class AboutTrueAndFalse(Koan):$/;"	kind:class	line:7
+AboutTuples	../koans/about_tuples.py	/^class AboutTuples(Koan):$/;"	kind:class	line:6
+AboutWithStatements	../koans/about_with_statements.py	/^class AboutWithStatements(Koan):$/;"	kind:class	line:12
+Animal	../koans/about_multiple_inheritance.py	/^    class Animal:$/;"	kind:class	line:21
+AnsiBack	../libs/colorama/ansi.py	/^class AnsiBack:$/;"	kind:class	line:30
+AnsiBack	../libs/colorama/ansitowin32.py	/^from .ansi import AnsiFore, AnsiBack, AnsiStyle, Style$/;"	kind:namespace	line:5
+AnsiCodes	../libs/colorama/ansi.py	/^class AnsiCodes(object):$/;"	kind:class	line:12
+AnsiFore	../libs/colorama/ansi.py	/^class AnsiFore:$/;"	kind:class	line:19
+AnsiFore	../libs/colorama/ansitowin32.py	/^from .ansi import AnsiFore, AnsiBack, AnsiStyle, Style$/;"	kind:namespace	line:5
+AnsiStyle	../libs/colorama/ansi.py	/^class AnsiStyle:$/;"	kind:class	line:41
+AnsiStyle	../libs/colorama/ansitowin32.py	/^from .ansi import AnsiFore, AnsiBack, AnsiStyle, Style$/;"	kind:namespace	line:5
+AnsiToWin32	../libs/colorama/__init__.py	/^from .ansitowin32 import AnsiToWin32$/;"	kind:namespace	line:4
+AnsiToWin32	../libs/colorama/ansitowin32.py	/^class AnsiToWin32(object):$/;"	kind:class	line:37
+AnsiToWin32	../libs/colorama/initialise.py	/^from .ansitowin32 import AnsiToWin32$/;"	kind:namespace	line:5
+BLACK	../libs/colorama/ansi.py	/^    BLACK   = 30$/;"	kind:variable	line:20
+BLACK	../libs/colorama/ansi.py	/^    BLACK   = 40$/;"	kind:variable	line:31
+BLACK	../libs/colorama/winterm.py	/^    BLACK   = 0$/;"	kind:variable	line:7
+BLUE	../libs/colorama/ansi.py	/^    BLUE    = 34$/;"	kind:variable	line:24
+BLUE	../libs/colorama/ansi.py	/^    BLUE    = 44$/;"	kind:variable	line:35
+BLUE	../libs/colorama/winterm.py	/^    BLUE    = 1$/;"	kind:variable	line:8
+BRIGHT	../libs/colorama/ansi.py	/^    BRIGHT    = 1$/;"	kind:variable	line:42
+BRIGHT	../libs/colorama/winterm.py	/^    BRIGHT = 0x08 # bright text, dim background$/;"	kind:variable	line:19
+Back	../libs/colorama/__init__.py	/^from .ansi import Fore, Back, Style$/;"	kind:namespace	line:3
+Back	../libs/colorama/ansi.py	/^Back = AnsiCodes( AnsiBack )$/;"	kind:variable	line:48
+BoundClass	../koans/about_method_bindings.py	/^    class BoundClass:$/;"	kind:class	line:58
+BullDog	../koans/about_inheritance.py	/^    class BullDog(Dog):$/;"	kind:class	line:54
+CONSOLE_SCREEN_BUFFER_INFO	../libs/colorama/win32.py	/^    class CONSOLE_SCREEN_BUFFER_INFO(Structure):$/;"	kind:class	line:18
+CSI	../libs/colorama/ansi.py	/^CSI = '\\033['$/;"	kind:variable	line:7
+CYAN	../libs/colorama/ansi.py	/^    CYAN    = 36$/;"	kind:variable	line:26
+CYAN	../libs/colorama/ansi.py	/^    CYAN    = 46$/;"	kind:variable	line:37
+CYAN	../libs/colorama/winterm.py	/^    CYAN    = 3$/;"	kind:variable	line:10
+CatchAllAttributeReads	../koans/about_attribute_access.py	/^    class CatchAllAttributeReads:$/;"	kind:class	line:32
+Chihuahua	../koans/about_inheritance.py	/^    class Chihuahua(Dog):$/;"	kind:class	line:18
+Class	../koans/about_method_bindings.py	/^class Class:$/;"	kind:class	line:12
+ClassType	../libs/mock.py	/^ClassType = type(OldStyleClass)$/;"	kind:variable	line:48
+ClintEastwood	../koans/about_deleting_objects.py	/^    class ClintEastwood:$/;"	kind:class	line:56
+ClosingSale	../koans/about_deleting_objects.py	/^    class ClosingSale:$/;"	kind:class	line:22
+DEFAULT	../libs/mock.py	/^DEFAULT = sentinel.DEFAULT$/;"	kind:variable	line:44
+DIM	../libs/colorama/ansi.py	/^    DIM       = 2$/;"	kind:variable	line:43
+DiceSet	../koans/about_dice_project.py	/^class DiceSet:$/;"	kind:class	line:8
+Dog	../koans/about_class_attributes.py	/^    class Dog:$/;"	kind:class	line:11
+Dog	../koans/about_classes.py	/^    class Dog:$/;"	kind:class	line:8
+Dog	../koans/about_inheritance.py	/^    class Dog:$/;"	kind:class	line:7
+Dog	../koans/about_methods.py	/^    class Dog:$/;"	kind:class	line:133
+Dog	../koans/about_monkey_patching.py	/^    class Dog:$/;"	kind:class	line:11
+Dog	../koans/jims.py	/^class Dog:$/;"	kind:class	line:4
+Dog	../koans/joes.py	/^class Dog:$/;"	kind:class	line:4
+Dog2	../koans/about_class_attributes.py	/^    class Dog2:$/;"	kind:class	line:59
+Dog2	../koans/about_classes.py	/^    class Dog2:$/;"	kind:class	line:22
+Dog3	../koans/about_class_attributes.py	/^    class Dog3:$/;"	kind:class	line:94
+Dog3	../koans/about_classes.py	/^    class Dog3:$/;"	kind:class	line:55
+Dog4	../koans/about_class_attributes.py	/^    class Dog4:$/;"	kind:class	line:134
+Dog4	../koans/about_classes.py	/^    class Dog4:$/;"	kind:class	line:79
+Dog5	../koans/about_classes.py	/^    class Dog5:$/;"	kind:class	line:99
+Dog6	../koans/about_classes.py	/^    class Dog6:$/;"	kind:class	line:126
+Duck	../koans/a_package_folder/a_module.py	/^class Duck:$/;"	kind:class	line:4
+Duck	../koans/about_modules.py	/^        from .local_module import Duck  # local_module.py$/;"	kind:namespace	line:54
+Duck	../koans/about_modules.py	/^        from .local_module import Duck$/;"	kind:namespace	line:23
+Duck	../koans/about_packages.py	/^        from .a_package_folder.a_module import Duck$/;"	kind:namespace	line:29
+Duck	../koans/about_packages.py	/^        from koans.a_package_folder.a_module import Duck$/;"	kind:namespace	line:58
+Duck	../koans/local_module.py	/^class Duck:$/;"	kind:class	line:4
+DuffObject	../koans/about_attribute_access.py	/^        class DuffObject: pass$/;"	kind:class	line:122
+FileContextManager	../koans/about_with_statements.py	/^    class FileContextManager():$/;"	kind:class	line:69
+FillConsoleOutputAttribute	../libs/colorama/win32.py	/^    def FillConsoleOutputAttribute(stream_id, attr, length, start):$/;"	kind:function	line:126
+FillConsoleOutputCharacter	../libs/colorama/win32.py	/^    def FillConsoleOutputCharacter(stream_id, char, length, start):$/;"	kind:function	line:116
+For	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+Fore	../libs/colorama/__init__.py	/^from .ansi import Fore, Back, Style$/;"	kind:namespace	line:3
+Fore	../libs/colorama/ansi.py	/^Fore = AnsiCodes( AnsiFore )$/;"	kind:variable	line:47
+Fore	../runner/sensei.py	/^from libs.colorama import init, Fore, Style$/;"	kind:namespace	line:14
+GREEN	../libs/colorama/ansi.py	/^    GREEN   = 32$/;"	kind:variable	line:22
+GREEN	../libs/colorama/ansi.py	/^    GREEN   = 42$/;"	kind:variable	line:33
+GREEN	../libs/colorama/winterm.py	/^    GREEN   = 2$/;"	kind:variable	line:9
+GREY	../libs/colorama/winterm.py	/^    GREY    = 7$/;"	kind:variable	line:14
+GetConsoleScreenBufferInfo	../libs/colorama/win32.py	/^    def GetConsoleScreenBufferInfo(stream_id=STDOUT):$/;"	kind:function	line:88
+Goat	../koans/local_module_with_all_defined.py	/^class Goat:$/;"	kind:class	line:9
+Goose	../koans/another_local_module.py	/^class Goose:$/;"	kind:class	line:4
+GreatDane	../koans/about_inheritance.py	/^    class GreatDane(Dog):$/;"	kind:class	line:65
+Greyhound	../koans/about_inheritance.py	/^    class Greyhound(Dog):$/;"	kind:class	line:79
+Hamster	../koans/another_local_module.py	/^class Hamster:$/;"	kind:class	line:9
+KOANS_FILENAME	../runner/path_to_enlightenment.py	/^KOANS_FILENAME = 'koans.txt'$/;"	kind:variable	line:14
+Koan	../runner/koan.py	/^class Koan(unittest.TestCase):$/;"	kind:class	line:22
+MAGENTA	../libs/colorama/ansi.py	/^    MAGENTA = 35$/;"	kind:variable	line:25
+MAGENTA	../libs/colorama/ansi.py	/^    MAGENTA = 45$/;"	kind:variable	line:36
+MAGENTA	../libs/colorama/winterm.py	/^    MAGENTA = 5$/;"	kind:variable	line:12
+MinimalCatcher	../koans/about_attribute_access.py	/^    class MinimalCatcher:$/;"	kind:class	line:121
+Mock	../libs/mock.py	/^class Mock(object):$/;"	kind:class	line:59
+MockableTestResult	../runner/mockable_test_result.py	/^class MockableTestResult(unittest.TestResult):$/;"	kind:class	line:9
+MockableTestResult	../runner/runner_tests/test_sensei.py	/^from runner.mockable_test_result import MockableTestResult$/;"	kind:namespace	line:11
+MockableTestResult	../runner/sensei.py	/^from .mockable_test_result import MockableTestResult$/;"	kind:namespace	line:11
+MoreOrganisedClosingSale	../koans/about_deleting_objects.py	/^    class MoreOrganisedClosingSale(ClosingSale):$/;"	kind:class	line:112
+Mountain	../contemplate_koans.py	/^        from runner.mountain import Mountain$/;"	kind:namespace	line:33
+Mountain	../runner/mountain.py	/^class Mountain:$/;"	kind:class	line:11
+Mountain	../runner/runner_tests/test_mountain.py	/^from runner.mountain import Mountain$/;"	kind:namespace	line:7
+MyInt	../koans/about_monkey_patching.py	/^    class MyInt(int): pass$/;"	kind:class	line:42
+MySpecialError	../koans/about_exceptions.py	/^    class MySpecialError(RuntimeError):$/;"	kind:class	line:8
+NORMAL	../libs/colorama/ansi.py	/^    NORMAL    = 22$/;"	kind:variable	line:44
+NORMAL	../libs/colorama/winterm.py	/^    NORMAL = 0x00 # dim text, dim background$/;"	kind:variable	line:18
+Nameable	../koans/about_multiple_inheritance.py	/^    class Nameable:$/;"	kind:class	line:11
+OldStyleClass	../libs/mock.py	/^class OldStyleClass:$/;"	kind:class	line:46
+PI	../koans/about_scope.py	/^    PI = 3.1416$/;"	kind:variable	line:48
+Pig	../koans/about_multiple_inheritance.py	/^    class Pig(Animal):$/;"	kind:class	line:31
+PossessiveSetter	../koans/about_attribute_access.py	/^    class PossessiveSetter(object):$/;"	kind:class	line:152
+Prisoner	../koans/about_deleting_objects.py	/^    class Prisoner:$/;"	kind:class	line:86
+Proxy	../koans/about_proxy_object_project.py	/^class Proxy:$/;"	kind:class	line:21
+Pug	../koans/about_inheritance.py	/^    class Pug(Dog):$/;"	kind:class	line:75
+RED	../libs/colorama/ansi.py	/^    RED     = 31$/;"	kind:variable	line:21
+RED	../libs/colorama/ansi.py	/^    RED     = 41$/;"	kind:variable	line:32
+RED	../libs/colorama/winterm.py	/^    RED     = 4$/;"	kind:variable	line:11
+RESET	../libs/colorama/ansi.py	/^    RESET   = 39$/;"	kind:variable	line:28
+RESET	../libs/colorama/ansi.py	/^    RESET   = 49$/;"	kind:variable	line:39
+RESET_ALL	../libs/colorama/ansi.py	/^    RESET_ALL = 0$/;"	kind:variable	line:45
+RecursiveCatcher	../koans/about_attribute_access.py	/^    class RecursiveCatcher:$/;"	kind:class	line:89
+STDERR	../libs/colorama/win32.py	/^STDERR = -12$/;"	kind:variable	line:5
+STDOUT	../libs/colorama/win32.py	/^STDOUT = -11$/;"	kind:variable	line:4
+ScarySetter	../koans/about_attribute_access.py	/^    class ScarySetter:$/;"	kind:class	line:180
+SecretDuck	../koans/local_module_with_all_defined.py	/^class SecretDuck:$/;"	kind:class	line:19
+Sensei	../runner/mountain.py	/^from .sensei import Sensei$/;"	kind:namespace	line:8
+Sensei	../runner/runner_tests/test_sensei.py	/^from runner.sensei import Sensei$/;"	kind:namespace	line:9
+Sensei	../runner/sensei.py	/^class Sensei(MockableTestResult):$/;"	kind:class	line:17
+Sentinel	../libs/mock.py	/^class Sentinel(object):$/;"	kind:class	line:34
+SentinelObject	../libs/mock.py	/^class SentinelObject(object):$/;"	kind:class	line:26
+SetConsoleCursorPosition	../libs/colorama/win32.py	/^    def SetConsoleCursorPosition(stream_id, position):$/;"	kind:function	line:99
+SetConsoleTextAttribute	../libs/colorama/win32.py	/^    SetConsoleTextAttribute = lambda *_: None$/;"	kind:variable	line:12
+SetConsoleTextAttribute	../libs/colorama/win32.py	/^    def SetConsoleTextAttribute(stream_id, attrs):$/;"	kind:function	line:95
+Spider	../koans/about_multiple_inheritance.py	/^    class Spider(Animal):$/;"	kind:class	line:49
+Spiderpig	../koans/about_multiple_inheritance.py	/^    class Spiderpig(Pig, Spider, Nameable):$/;"	kind:class	line:66
+StreamWrapper	../libs/colorama/ansitowin32.py	/^class StreamWrapper(object):$/;"	kind:class	line:18
+Style	../libs/colorama/__init__.py	/^from .ansi import Fore, Back, Style$/;"	kind:namespace	line:3
+Style	../libs/colorama/ansi.py	/^Style = AnsiCodes( AnsiStyle )$/;"	kind:variable	line:49
+Style	../libs/colorama/ansitowin32.py	/^from .ansi import AnsiFore, AnsiBack, AnsiStyle, Style$/;"	kind:namespace	line:5
+Style	../runner/sensei.py	/^from libs.colorama import init, Fore, Style$/;"	kind:namespace	line:14
+SuperColor	../koans/about_method_bindings.py	/^    class SuperColor:$/;"	kind:class	line:77
+Television	../koans/about_proxy_object_project.py	/^class Television:$/;"	kind:class	line:101
+TelevisionTest	../koans/about_proxy_object_project.py	/^class TelevisionTest(Koan):$/;"	kind:class	line:124
+TestFilterKoanNames	../_runner_tests.py	/^from runner.runner_tests.test_path_to_enlightenment import TestFilterKoanNames$/;"	kind:namespace	line:10
+TestFilterKoanNames	../runner/runner_tests/test_path_to_enlightenment.py	/^class TestFilterKoanNames(unittest.TestCase):$/;"	kind:class	line:10
+TestHelper	../_runner_tests.py	/^from runner.runner_tests.test_helper import TestHelper$/;"	kind:namespace	line:9
+TestHelper	../runner/runner_tests/test_helper.py	/^class TestHelper(unittest.TestCase):$/;"	kind:class	line:8
+TestKoansSuite	../_runner_tests.py	/^from runner.runner_tests.test_path_to_enlightenment import TestKoansSuite$/;"	kind:namespace	line:11
+TestKoansSuite	../runner/runner_tests/test_path_to_enlightenment.py	/^class TestKoansSuite(unittest.TestCase):$/;"	kind:class	line:77
+TestMountain	../_runner_tests.py	/^from runner.runner_tests.test_mountain import TestMountain$/;"	kind:namespace	line:7
+TestMountain	../runner/runner_tests/test_mountain.py	/^class TestMountain(unittest.TestCase):$/;"	kind:class	line:9
+TestSensei	../_runner_tests.py	/^from runner.runner_tests.test_sensei import TestSensei$/;"	kind:namespace	line:8
+TestSensei	../runner/runner_tests/test_sensei.py	/^class TestSensei(unittest.TestCase):$/;"	kind:class	line:83
+TriangleError	../koans/triangle.py	/^class TriangleError(Exception):$/;"	kind:class	line:24
+TypicalObject	../koans/about_attribute_access.py	/^    class TypicalObject:$/;"	kind:class	line:12
+VERSION	../libs/colorama/__init__.py	/^VERSION = '0.2.7'$/;"	kind:variable	line:6
+WHITE	../libs/colorama/ansi.py	/^    WHITE   = 37$/;"	kind:variable	line:27
+WHITE	../libs/colorama/ansi.py	/^    WHITE   = 47$/;"	kind:variable	line:38
+WellBehavedFooCatcher	../koans/about_attribute_access.py	/^    class WellBehavedFooCatcher:$/;"	kind:class	line:66
+WinColor	../libs/colorama/ansitowin32.py	/^from .winterm import WinTerm, WinColor, WinStyle$/;"	kind:namespace	line:6
+WinColor	../libs/colorama/winterm.py	/^class WinColor(object):$/;"	kind:class	line:6
+WinStyle	../libs/colorama/ansitowin32.py	/^from .winterm import WinTerm, WinColor, WinStyle$/;"	kind:namespace	line:6
+WinStyle	../libs/colorama/winterm.py	/^class WinStyle(object):$/;"	kind:class	line:17
+WinTerm	../libs/colorama/ansitowin32.py	/^from .winterm import WinTerm, WinColor, WinStyle$/;"	kind:namespace	line:6
+WinTerm	../libs/colorama/winterm.py	/^class WinTerm(object):$/;"	kind:class	line:22
+WritelnDecorator	../runner/mountain.py	/^from .writeln_decorator import WritelnDecorator$/;"	kind:namespace	line:9
+WritelnDecorator	../runner/runner_tests/test_sensei.py	/^from runner.writeln_decorator import WritelnDecorator$/;"	kind:namespace	line:10
+WritelnDecorator	../runner/writeln_decorator.py	/^class WritelnDecorator:$/;"	kind:class	line:8
+YELLOW	../libs/colorama/ansi.py	/^    YELLOW  = 33$/;"	kind:variable	line:23
+YELLOW	../libs/colorama/ansi.py	/^    YELLOW  = 43$/;"	kind:variable	line:34
+YELLOW	../libs/colorama/winterm.py	/^    YELLOW  = 6$/;"	kind:variable	line:13
+_FillConsoleOutputAttribute	../libs/colorama/win32.py	/^    _FillConsoleOutputAttribute = windll.kernel32.FillConsoleOutputAttribute$/;"	kind:variable	line:73
+_FillConsoleOutputCharacterA	../libs/colorama/win32.py	/^    _FillConsoleOutputCharacterA = windll.kernel32.FillConsoleOutputCharacterA$/;"	kind:variable	line:63
+_GetConsoleScreenBufferInfo	../libs/colorama/win32.py	/^    _GetConsoleScreenBufferInfo = windll.kernel32.GetConsoleScreenBufferInfo$/;"	kind:variable	line:42
+_GetStdHandle	../libs/colorama/win32.py	/^    _GetStdHandle = windll.kernel32.GetStdHandle$/;"	kind:variable	line:36
+_SecretSquirrel	../koans/another_local_module.py	/^class _SecretSquirrel:$/;"	kind:class	line:14
+_SetConsoleCursorPosition	../libs/colorama/win32.py	/^    _SetConsoleCursorPosition = windll.kernel32.SetConsoleCursorPosition$/;"	kind:variable	line:56
+_SetConsoleTextAttribute	../libs/colorama/win32.py	/^    _SetConsoleTextAttribute = windll.kernel32.SetConsoleTextAttribute$/;"	kind:variable	line:49
+_Velociraptor	../koans/local_module_with_all_defined.py	/^class _Velociraptor:$/;"	kind:class	line:14
+___	../runner/koan.py	/^class ___(Exception):$/;"	kind:class	line:14
+_____	../runner/koan.py	/^_____ = 0$/;"	kind:variable	line:19
+__all__	../koans/local_module_with_all_defined.py	/^__all__ = ($/;"	kind:variable	line:4
+__all__	../libs/mock.py	/^__all__ = ($/;"	kind:variable	line:16
+__all__	../runner/koan.py	/^__all__ = [ "__", "___", "____", "_____", "Koan" ]$/;"	kind:variable	line:10
+__call__	../koans/about_decorating_with_classes.py	/^        def __call__(self, *args):$/;"	kind:member	line:44
+__call__	../koans/about_decorating_with_classes.py	/^        def __call__(self, fn):$/;"	kind:member	line:88
+__call__	../libs/mock.py	/^    def __call__(self, *args, **kwargs):$/;"	kind:member	line:100
+__call__	../libs/mock.py	/^    def __call__(self, func):$/;"	kind:member	line:182
+__delattr__	../koans/about_deleting_objects.py	/^        def __delattr__(self, attr_name):$/;"	kind:member	line:117
+__enter__	../koans/about_with_statements.py	/^        def __enter__(self):$/;"	kind:member	line:74
+__enter__	../libs/mock.py	/^    def __enter__(self):$/;"	kind:member	line:225
+__exit__	../koans/about_with_statements.py	/^        def __exit__(self, cls, value, tb):$/;"	kind:member	line:78
+__exit__	../libs/mock.py	/^    def __exit__(self, *_):$/;"	kind:member	line:244
+__get__	../koans/about_decorating_with_classes.py	/^        def __get__(self, obj, cls=None):$/;"	kind:member	line:47
+__get__	../koans/about_method_bindings.py	/^        def __get__(self, obj, cls):$/;"	kind:member	line:59
+__get_return_value	../libs/mock.py	/^    def __get_return_value(self):$/;"	kind:member	line:89
+__getattr__	../koans/about_attribute_access.py	/^        def __getattr__(self, attr_name):$/;"	kind:member	line:127
+__getattr__	../libs/colorama/ansitowin32.py	/^    def __getattr__(self, name):$/;"	kind:member	line:30
+__getattr__	../libs/mock.py	/^    def __getattr__(self, name):$/;"	kind:member	line:133
+__getattr__	../libs/mock.py	/^    def __getattr__(self, name):$/;"	kind:member	line:38
+__getattr__	../runner/writeln_decorator.py	/^    def __getattr__(self, attr):$/;"	kind:member	line:13
+__getattribute__	../koans/about_attribute_access.py	/^        def __getattribute__(self, attr_name):$/;"	kind:member	line:33
+__getattribute__	../koans/about_attribute_access.py	/^        def __getattribute__(self, attr_name):$/;"	kind:member	line:67
+__getattribute__	../koans/about_attribute_access.py	/^        def __getattribute__(self, attr_name):$/;"	kind:member	line:95
+__init__	../koans/about_attribute_access.py	/^        def __init__(self):$/;"	kind:member	line:124
+__init__	../koans/about_attribute_access.py	/^        def __init__(self):$/;"	kind:member	line:181
+__init__	../koans/about_attribute_access.py	/^        def __init__(self):$/;"	kind:member	line:90
+__init__	../koans/about_class_attributes.py	/^        def __init__(self):$/;"	kind:member	line:95
+__init__	../koans/about_classes.py	/^        def __init__(self):$/;"	kind:member	line:23
+__init__	../koans/about_classes.py	/^        def __init__(self):$/;"	kind:member	line:56
+__init__	../koans/about_classes.py	/^        def __init__(self):$/;"	kind:member	line:80
+__init__	../koans/about_classes.py	/^        def __init__(self, initial_name):$/;"	kind:member	line:100
+__init__	../koans/about_classes.py	/^        def __init__(self, initial_name):$/;"	kind:member	line:127
+__init__	../koans/about_decorating_with_classes.py	/^        def __init__(self, *args):$/;"	kind:member	line:85
+__init__	../koans/about_decorating_with_classes.py	/^        def __init__(self, fn):$/;"	kind:member	line:41
+__init__	../koans/about_deleting_objects.py	/^        def __init__(self):$/;"	kind:member	line:113
+__init__	../koans/about_deleting_objects.py	/^        def __init__(self):$/;"	kind:member	line:23
+__init__	../koans/about_deleting_objects.py	/^        def __init__(self):$/;"	kind:member	line:57
+__init__	../koans/about_deleting_objects.py	/^        def __init__(self):$/;"	kind:member	line:87
+__init__	../koans/about_dice_project.py	/^    def __init__(self):$/;"	kind:member	line:9
+__init__	../koans/about_inheritance.py	/^        def __init__(self, name):$/;"	kind:member	line:76
+__init__	../koans/about_inheritance.py	/^        def __init__(self, name):$/;"	kind:member	line:8
+__init__	../koans/about_inheritance.py	/^        def __init__(self, name):$/;"	kind:member	line:80
+__init__	../koans/about_method_bindings.py	/^        def __init__(self):$/;"	kind:member	line:78
+__init__	../koans/about_multiple_inheritance.py	/^        def __init__(self):$/;"	kind:member	line:12
+__init__	../koans/about_multiple_inheritance.py	/^        def __init__(self):$/;"	kind:member	line:32
+__init__	../koans/about_multiple_inheritance.py	/^        def __init__(self):$/;"	kind:member	line:50
+__init__	../koans/about_multiple_inheritance.py	/^        def __init__(self):$/;"	kind:member	line:67
+__init__	../koans/about_proxy_object_project.py	/^    def __init__(self):$/;"	kind:member	line:102
+__init__	../koans/about_proxy_object_project.py	/^    def __init__(self, target_object):$/;"	kind:member	line:22
+__init__	../koans/about_with_statements.py	/^        def __init__(self, file_name):$/;"	kind:member	line:70
+__init__	../koans/local_module.py	/^    def __init__(self):$/;"	kind:member	line:5
+__init__	../libs/colorama/ansi.py	/^    def __init__(self, codes):$/;"	kind:member	line:13
+__init__	../libs/colorama/ansitowin32.py	/^    def __init__(self, wrapped, convert=None, strip=None, autoreset=False):$/;"	kind:member	line:45
+__init__	../libs/colorama/ansitowin32.py	/^    def __init__(self, wrapped, converter):$/;"	kind:member	line:24
+__init__	../libs/colorama/winterm.py	/^    def __init__(self):$/;"	kind:member	line:24
+__init__	../libs/mock.py	/^    def __init__(self):$/;"	kind:member	line:35
+__init__	../libs/mock.py	/^    def __init__(self, name):$/;"	kind:member	line:27
+__init__	../libs/mock.py	/^    def __init__(self, spec=None, side_effect=None, return_value=DEFAULT,$/;"	kind:member	line:61
+__init__	../libs/mock.py	/^    def __init__(self, target, attribute, new, spec, create):$/;"	kind:member	line:173
+__init__	../runner/mountain.py	/^    def __init__(self):$/;"	kind:member	line:12
+__init__	../runner/sensei.py	/^    def __init__(self, stream):$/;"	kind:member	line:18
+__init__	../runner/writeln_decorator.py	/^    def __init__(self,stream):$/;"	kind:member	line:10
+__init__.py	../koans/__init__.py	1;"	kind:file	line:1
+__init__.py	../koans/a_package_folder/__init__.py	1;"	kind:file	line:1
+__init__.py	../libs/__init__.py	1;"	kind:file	line:1
+__init__.py	../libs/colorama/__init__.py	1;"	kind:file	line:1
+__init__.py	../runner/__init__.py	1;"	kind:file	line:1
+__init__.py	../runner/runner_tests/__init__.py	1;"	kind:file	line:1
+__password	../koans/about_methods.py	/^        def __password(self):$/;"	kind:member	line:141
+__repr__	../koans/about_classes.py	/^        def __repr__(self):$/;"	kind:member	line:139
+__repr__	../libs/mock.py	/^    def __repr__(self):$/;"	kind:member	line:30
+__set__	../koans/about_method_bindings.py	/^        def __set__(self, obj, val):$/;"	kind:member	line:81
+__set_return_value	../libs/mock.py	/^    def __set_return_value(self, value):$/;"	kind:member	line:94
+__setattr__	../koans/about_attribute_access.py	/^        def __setattr__(self, attr_name, value):$/;"	kind:member	line:153
+__setattr__	../koans/about_attribute_access.py	/^        def __setattr__(self, attr_name, value):$/;"	kind:member	line:185
+__str__	../koans/about_classes.py	/^        def __str__(self):$/;"	kind:member	line:133
+__str__	../libs/colorama/win32.py	/^        def __str__(self):$/;"	kind:member	line:27
+__version__	../libs/mock.py	/^__version__ = '0.6.0 modified by Greg Malcolm'$/;"	kind:variable	line:24
+_copy	../libs/mock.py	/^def _copy(value):$/;"	kind:function	line:53
+_dot_lookup	../libs/mock.py	/^def _dot_lookup(thing, comp, import_path):$/;"	kind:function	line:153
+_fields_	../libs/colorama/win32.py	/^        _fields_ = [$/;"	kind:variable	line:20
+_has_local_attr	../libs/mock.py	/^def _has_local_attr(obj, name):$/;"	kind:function	line:266
+_importer	../libs/mock.py	/^def _importer(target):$/;"	kind:function	line:161
+_is_magic	../libs/mock.py	/^def _is_magic(name):$/;"	kind:function	line:50
+_patch	../libs/mock.py	/^class _patch(object):$/;"	kind:class	line:172
+_runner_tests.py	../_runner_tests.py	1;"	kind:file	line:1
+_tail	../koans/about_methods.py	/^        def _tail(self):$/;"	kind:member	line:137
+a	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+a_class_method	../koans/about_class_attributes.py	/^        a_class_method = classmethod(a_class_method)$/;"	kind:variable	line:141
+a_class_method	../koans/about_class_attributes.py	/^        def a_class_method(cls):$/;"	kind:member	line:135
+a_module.py	../koans/a_package_folder/a_module.py	1;"	kind:file	line:1
+a_static_method	../koans/about_class_attributes.py	/^        a_static_method = staticmethod(a_static_method)$/;"	kind:variable	line:142
+a_static_method	../koans/about_class_attributes.py	/^        def a_static_method():$/;"	kind:member	line:138
+about_asserts.py	../koans/about_asserts.py	1;"	kind:file	line:1
+about_attribute_access.py	../koans/about_attribute_access.py	1;"	kind:file	line:1
+about_class_attributes.py	../koans/about_class_attributes.py	1;"	kind:file	line:1
+about_classes.py	../koans/about_classes.py	1;"	kind:file	line:1
+about_comprehension.py	../koans/about_comprehension.py	1;"	kind:file	line:1
+about_control_statements.py	../koans/about_control_statements.py	1;"	kind:file	line:1
+about_decorating_with_classes.py	../koans/about_decorating_with_classes.py	1;"	kind:file	line:1
+about_decorating_with_functions.py	../koans/about_decorating_with_functions.py	1;"	kind:file	line:1
+about_deleting_objects.py	../koans/about_deleting_objects.py	1;"	kind:file	line:1
+about_dice_project.py	../koans/about_dice_project.py	1;"	kind:file	line:1
+about_dictionaries.py	../koans/about_dictionaries.py	1;"	kind:file	line:1
+about_exceptions.py	../koans/about_exceptions.py	1;"	kind:file	line:1
+about_extra_credit.py	../koans/about_extra_credit.py	1;"	kind:file	line:1
+about_generators.py	../koans/about_generators.py	1;"	kind:file	line:1
+about_inheritance.py	../koans/about_inheritance.py	1;"	kind:file	line:1
+about_iteration.py	../koans/about_iteration.py	1;"	kind:file	line:1
+about_lambdas.py	../koans/about_lambdas.py	1;"	kind:file	line:1
+about_list_assignments.py	../koans/about_list_assignments.py	1;"	kind:file	line:1
+about_lists.py	../koans/about_lists.py	1;"	kind:file	line:1
+about_method_bindings.py	../koans/about_method_bindings.py	1;"	kind:file	line:1
+about_methods.py	../koans/about_methods.py	1;"	kind:file	line:1
+about_modules.py	../koans/about_modules.py	1;"	kind:file	line:1
+about_monkey_patching.py	../koans/about_monkey_patching.py	1;"	kind:file	line:1
+about_multiple_inheritance.py	../koans/about_multiple_inheritance.py	1;"	kind:file	line:1
+about_none.py	../koans/about_none.py	1;"	kind:file	line:1
+about_packages.py	../koans/about_packages.py	1;"	kind:file	line:1
+about_proxy_object_project.py	../koans/about_proxy_object_project.py	1;"	kind:file	line:1
+about_regex.py	../koans/about_regex.py	1;"	kind:file	line:1
+about_scope.py	../koans/about_scope.py	1;"	kind:file	line:1
+about_scoring_project.py	../koans/about_scoring_project.py	1;"	kind:file	line:1
+about_sets.py	../koans/about_sets.py	1;"	kind:file	line:1
+about_string_manipulation.py	../koans/about_string_manipulation.py	1;"	kind:file	line:1
+about_strings.py	../koans/about_strings.py	1;"	kind:file	line:1
+about_triangle_project.py	../koans/about_triangle_project.py	1;"	kind:file	line:1
+about_triangle_project2.py	../koans/about_triangle_project2.py	1;"	kind:file	line:1
+about_true_and_false.py	../koans/about_true_and_false.py	1;"	kind:file	line:1
+about_tuples.py	../koans/about_tuples.py	1;"	kind:file	line:1
+about_with_statements.py	../koans/about_with_statements.py	1;"	kind:file	line:1
+add	../koans/about_iteration.py	/^    def add(self,accum,item):$/;"	kind:member	line:85
+addError	../runner/sensei.py	/^    def addError(self, test, err):$/;"	kind:member	line:48
+addFailure	../runner/sensei.py	/^    def addFailure(self, test, err):$/;"	kind:member	line:56
+addSuccess	../runner/sensei.py	/^    def addSuccess(self, test):$/;"	kind:member	line:39
+add_ten	../koans/about_iteration.py	/^    def add_ten(self, item):$/;"	kind:member	line:33
+addcowbell	../koans/about_decorating_with_functions.py	/^    def addcowbell(fn):$/;"	kind:member	line:8
+all_blank_or_comment_lines_produce_empty_output	../runner/runner_tests/test_path_to_enlightenment.py	/^    def all_blank_or_comment_lines_produce_empty_output(self):$/;"	kind:member	line:63
+an_attribute	../koans/a_package_folder/__init__.py	/^an_attribute = 1984/;"	kind:variable	line:4
+an_attribute	../koans/about_packages.py	/^        from .a_package_folder import an_attribute$/;"	kind:namespace	line:36
+another_local_module.py	../koans/another_local_module.py	1;"	kind:file	line:1
+another_method_with_the_same_name	../koans/about_methods.py	/^    def another_method_with_the_same_name(self):$/;"	kind:member	line:86
+another_method_with_the_same_name	../koans/about_methods.py	/^    def another_method_with_the_same_name(self):$/;"	kind:member	line:91
+ansi.py	../libs/colorama/ansi.py	1;"	kind:file	line:1
+ansitowin32.py	../libs/colorama/ansitowin32.py	1;"	kind:file	line:1
+assert_called_with	../libs/mock.py	/^    def assert_called_with(self, *args, **kwargs):$/;"	kind:member	line:149
+atexit	../libs/colorama/initialise.py	/^import atexit$/;"	kind:namespace	line:2
+atexit_done	../libs/colorama/initialise.py	/^atexit_done = False$/;"	kind:variable	line:14
+back	../libs/colorama/winterm.py	/^    def back(self, back=None, on_stderr=False):$/;"	kind:member	line:49
+bark	../koans/about_class_attributes.py	/^        def bark():$/;"	kind:member	line:70
+bark	../koans/about_class_attributes.py	/^        def bark(self):$/;"	kind:member	line:63
+bark	../koans/about_inheritance.py	/^        def bark(self):$/;"	kind:member	line:15
+bark	../koans/about_inheritance.py	/^        def bark(self):$/;"	kind:member	line:22
+bark	../koans/about_inheritance.py	/^        def bark(self):$/;"	kind:member	line:55
+bark	../koans/about_monkey_patching.py	/^        def bark(self):$/;"	kind:member	line:12
+binding	../koans/about_method_bindings.py	/^    binding = BoundClass()$/;"	kind:variable	line:62
+call_win32	../libs/colorama/ansitowin32.py	/^    def call_win32(self, command, params):$/;"	kind:member	line:165
+cameras	../koans/about_deleting_objects.py	/^        def cameras(self):$/;"	kind:member	line:27
+can_climb_walls	../koans/about_multiple_inheritance.py	/^        def can_climb_walls(self):$/;"	kind:member	line:25
+can_climb_walls	../koans/about_multiple_inheritance.py	/^        def can_climb_walls(self):$/;"	kind:member	line:54
+channel	../koans/about_proxy_object_project.py	/^    def channel(self):$/;"	kind:member	line:107
+channel	../koans/about_proxy_object_project.py	/^    def channel(self, value):$/;"	kind:member	line:111
+cls_name	../runner/helper.py	/^def cls_name(obj):$/;"	kind:function	line:4
+code_to_chars	../libs/colorama/ansi.py	/^def code_to_chars(code):$/;"	kind:function	line:9
+color	../koans/about_method_bindings.py	/^    color = SuperColor()$/;"	kind:variable	line:84
+color	../koans/about_multiple_inheritance.py	/^        def color(self):$/;"	kind:member	line:43
+color	../koans/about_multiple_inheritance.py	/^        def color(self):$/;"	kind:member	line:60
+comparisons	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+contemplate_koans	../koans/about_packages.py	/^        import contemplate_koans$/;"	kind:namespace	line:44
+contemplate_koans.py	../contemplate_koans.py	1;"	kind:file	line:1
+convert_ansi	../libs/colorama/ansitowin32.py	/^    def convert_ansi(self, paramstring, command):$/;"	kind:member	line:151
+coroutine	../koans/about_generators.py	/^    def coroutine(self):$/;"	kind:member	line:95
+count_badly	../koans/about_decorating_with_classes.py	/^    def count_badly(self, num):$/;"	kind:member	line:99
+count_lines	../koans/about_with_statements.py	/^    def count_lines(self, file_name):$/;"	kind:member	line:13
+count_lines2	../koans/about_with_statements.py	/^    def count_lines2(self, file_name):$/;"	kind:member	line:83
+count_lines3	../koans/about_with_statements.py	/^    def count_lines3(self, file_name):$/;"	kind:member	line:102
+counter	../koans/about_scope.py	/^counter = 0 # Global$/;"	kind:variable	line:9
+cursor_up	../libs/colorama/winterm.py	/^    def cursor_up(self, num_rows=0, on_stderr=False):$/;"	kind:member	line:87
+deadly_bingo	../koans/about_scope.py	/^    deadly_bingo = [4, 8, 15, 16, 23, 42]$/;"	kind:variable	line:107
+decorated_function	../koans/about_decorating_with_classes.py	/^            def decorated_function(*args):$/;"	kind:function	line:89
+deinit	../libs/colorama/__init__.py	/^from .initialise import init, deinit, reinit$/;"	kind:namespace	line:2
+deinit	../libs/colorama/initialise.py	/^def deinit():$/;"	kind:function	line:38
+del_name	../koans/about_deleting_objects.py	/^        def del_name(self):$/;"	kind:member	line:69
+documenter	../koans/about_decorating_with_classes.py	/^    class documenter:$/;"	kind:class	line:84
+doubleit	../koans/about_decorating_with_classes.py	/^    class doubleit:$/;"	kind:class	line:40
+empty_method	../koans/about_methods.py	/^    def empty_method(self):$/;"	kind:member	line:102
+erase_data	../libs/colorama/winterm.py	/^    def erase_data(self, mode=0, on_stderr=False):$/;"	kind:member	line:97
+errorReport	../runner/sensei.py	/^    def errorReport(self):$/;"	kind:member	line:104
+execute_koans	../scent.py	/^def execute_koans(*args):$/;"	kind:function	line:11
+expression	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+expression	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+extract_params	../libs/colorama/ansitowin32.py	/^    def extract_params(self, paramstring):$/;"	kind:member	line:157
+filter_all_lessons	../runner/sensei.py	/^    def filter_all_lessons(self):$/;"	kind:member	line:261
+filter_koan_names	../runner/path_to_enlightenment.py	/^def filter_koan_names(lines):$/;"	kind:function	line:17
+find_line	../koans/about_with_statements.py	/^    def find_line(self, file_name):$/;"	kind:member	line:29
+find_line2	../koans/about_with_statements.py	/^    def find_line2(self, file_name):$/;"	kind:member	line:92
+firstFailure	../runner/sensei.py	/^    def firstFailure(self):$/;"	kind:member	line:73
+foo	../koans/about_decorating_with_classes.py	/^    def foo(self):$/;"	kind:member	line:56
+fore	../libs/colorama/winterm.py	/^    def fore(self, fore=None, on_stderr=False):$/;"	kind:member	line:43
+from_the_boosh	../koans/about_scope.py	/^        def from_the_boosh():$/;"	kind:function	line:93
+from_the_league	../koans/about_scope.py	/^        def from_the_league():$/;"	kind:function	line:86
+func	../koans/about_decorating_with_functions.py	/^        def func(*args):$/;"	kind:function	line:23
+function	../koans/about_method_bindings.py	/^def function():$/;"	kind:function	line:6
+function2	../koans/about_method_bindings.py	/^def function2():$/;"	kind:function	line:9
+function_with_the_same_name	../koans/about_methods.py	/^        def function_with_the_same_name(a, b):$/;"	kind:function	line:73
+function_with_the_same_name	../koans/about_methods.py	/^        def function_with_the_same_name(a, b):$/;"	kind:function	line:79
+function_with_the_same_name	../koans/about_methods.py	/^    def function_with_the_same_name(self, a, b):$/;"	kind:member	line:69
+functions	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+functools	../koans/about_decorating_with_classes.py	/^import functools$/;"	kind:namespace	line:6
+functools	../koans/about_iteration.py	/^        import functools$/;"	kind:namespace	line:92
+get_attrs	../libs/colorama/winterm.py	/^    def get_attrs(self):$/;"	kind:member	line:31
+get_name	../koans/about_class_attributes.py	/^        def get_name(cls):$/;"	kind:member	line:105
+get_name	../koans/about_classes.py	/^        def get_name(self):$/;"	kind:member	line:62
+get_name	../koans/about_deleting_objects.py	/^        def get_name(self):$/;"	kind:member	line:60
+get_name_from_instance	../koans/about_class_attributes.py	/^        def get_name_from_instance(self):$/;"	kind:member	line:98
+get_original	../libs/mock.py	/^    def get_original(self):$/;"	kind:member	line:208
+get_position	../libs/colorama/winterm.py	/^    def get_position(self, handle):$/;"	kind:member	line:69
+get_self	../koans/about_classes.py	/^        def get_self(self):$/;"	kind:member	line:130
+get_win32_calls	../libs/colorama/ansitowin32.py	/^    def get_win32_calls(self):$/;"	kind:member	line:85
+glob	../runner/sensei.py	/^import glob$/;"	kind:namespace	line:8
+growl	../koans/about_class_attributes.py	/^        def growl(cls):$/;"	kind:member	line:74
+growl	../koans/about_class_attributes.py	/^        def growl(self):$/;"	kind:member	line:66
+growl	../koans/about_inheritance.py	/^        def growl(self):$/;"	kind:member	line:66
+handles	../libs/colorama/win32.py	/^    handles = {$/;"	kind:variable	line:83
+helper	../runner/runner_tests/test_helper.py	/^from runner import helper$/;"	kind:namespace	line:6
+helper	../runner/sensei.py	/^from . import helper$/;"	kind:namespace	line:10
+helper.py	../runner/helper.py	1;"	kind:file	line:1
+here	../koans/about_multiple_inheritance.py	/^        def here(self):$/;"	kind:member	line:18
+here	../koans/about_multiple_inheritance.py	/^        def here(self):$/;"	kind:member	line:28
+here	../koans/about_multiple_inheritance.py	/^        def here(self):$/;"	kind:member	line:46
+here	../koans/about_multiple_inheritance.py	/^        def here(self):$/;"	kind:member	line:63
+here	../koans/about_multiple_inheritance.py	/^        def here(self):$/;"	kind:member	line:75
+homer	../koans/about_decorating_with_classes.py	/^    def homer(self):$/;"	kind:member	line:122
+identify	../koans/jims.py	/^    def identify(self):$/;"	kind:member	line:5
+identify	../koans/joes.py	/^    def identify(self):$/;"	kind:member	line:5
+idler	../koans/about_decorating_with_classes.py	/^    def idler(self, num):$/;"	kind:member	line:106
+import	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+import	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+increment_using_global_counter	../koans/about_scope.py	/^    def increment_using_global_counter(self):$/;"	kind:member	line:66
+increment_using_local_counter	../koans/about_scope.py	/^    def increment_using_local_counter(self, counter):$/;"	kind:member	line:63
+init	../libs/colorama/__init__.py	/^from .initialise import init, deinit, reinit$/;"	kind:namespace	line:2
+init	../libs/colorama/initialise.py	/^def init(autoreset=False, convert=None, strip=None, wrap=True):$/;"	kind:function	line:21
+init	../runner/sensei.py	/^from libs.colorama import init, Fore, Style$/;"	kind:namespace	line:14
+initialise.py	../libs/colorama/initialise.py	1;"	kind:file	line:1
+io	../runner/path_to_enlightenment.py	/^import io$/;"	kind:namespace	line:9
+io	../runner/runner_tests/test_path_to_enlightenment.py	/^import io$/;"	kind:namespace	line:4
+is_a_tty	../libs/colorama/ansitowin32.py	/^def is_a_tty(stream):$/;"	kind:function	line:14
+is_big_name	../koans/about_iteration.py	/^        def is_big_name(item):$/;"	kind:function	line:68
+is_even	../koans/about_iteration.py	/^        def is_even(item):$/;"	kind:function	line:56
+is_on	../koans/about_proxy_object_project.py	/^    def is_on(self):$/;"	kind:member	line:120
+jellies	../koans/about_deleting_objects.py	/^        def jellies(self):$/;"	kind:member	line:33
+jims	../koans/about_modules.py	/^        from . import jims, joes$/;"	kind:namespace	line:29
+jims	../koans/about_scope.py	/^from . import jims$/;"	kind:namespace	line:6
+jims.py	../koans/jims.py	1;"	kind:file	line:1
+joes	../koans/about_modules.py	/^        from . import jims, joes$/;"	kind:namespace	line:29
+joes	../koans/about_scope.py	/^from . import joes$/;"	kind:namespace	line:7
+joes.py	../koans/joes.py	1;"	kind:file	line:1
+koan.py	../runner/koan.py	1;"	kind:file	line:1
+koans	../runner/path_to_enlightenment.py	/^def koans(filename=KOANS_FILENAME):$/;"	kind:function	line:56
+koans_suite	../runner/path_to_enlightenment.py	/^def koans_suite(names):$/;"	kind:function	line:42
+learn	../runner/sensei.py	/^    def learn(self):$/;"	kind:member	line:83
+legs	../koans/about_multiple_inheritance.py	/^        def legs(self):$/;"	kind:member	line:22
+legs	../koans/about_multiple_inheritance.py	/^        def legs(self):$/;"	kind:member	line:57
+library	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+link_to_overlapped_method	../koans/about_methods.py	/^    link_to_overlapped_method = another_method_with_the_same_name$/;"	kind:variable	line:89
+local_access	../koans/about_scope.py	/^    def local_access(self):$/;"	kind:member	line:84
+local_module	../koans/about_modules.py	/^        from . import local_module  # local_module.py$/;"	kind:namespace	line:17
+local_module	../koans/about_modules.py	/^        from .local_module import Duck  # local_module.py$/;"	kind:namespace	line:54
+local_module.py	../koans/local_module.py	1;"	kind:file	line:1
+local_module_with_all_defined.py	../koans/local_module_with_all_defined.py	1;"	kind:file	line:1
+make_order	../koans/about_lambdas.py	/^    def make_order(self, order):$/;"	kind:member	line:17
+make_upcase	../koans/about_iteration.py	/^                def make_upcase(line):$/;"	kind:function	line:127
+math	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+maximum	../koans/about_decorating_with_classes.py	/^    def maximum(self, a, b):$/;"	kind:member	line:9
+mediocre_song	../koans/about_decorating_with_functions.py	/^    def mediocre_song(self):$/;"	kind:member	line:13
+method	../koans/about_method_bindings.py	/^    def method(self):$/;"	kind:member	line:13
+method_with_defaults	../koans/about_methods.py	/^    def method_with_defaults(self, a, b='default_value'):$/;"	kind:member	line:50
+method_with_documentation	../koans/about_methods.py	/^    def method_with_documentation(self):$/;"	kind:member	line:124
+method_with_var_args	../koans/about_methods.py	/^    def method_with_var_args(self, *args):$/;"	kind:member	line:59
+mock.py	../libs/mock.py	1;"	kind:file	line:1
+mockable_test_result.py	../runner/mockable_test_result.py	1;"	kind:file	line:1
+module	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+mountain.py	../runner/mountain.py	1;"	kind:file	line:1
+multiply	../koans/about_iteration.py	/^    def multiply(self,accum,item):$/;"	kind:member	line:88
+my_global_function	../koans/about_methods.py	/^def my_global_function(a,b):$/;"	kind:function	line:10
+my_method	../koans/about_attribute_access.py	/^        def my_method(self):$/;"	kind:member	line:110
+my_method	../koans/about_attribute_access.py	/^        def my_method(self):$/;"	kind:member	line:131
+name	../koans/a_package_folder/a_module.py	/^    def name(self):$/;"	kind:member	line:6
+name	../koans/about_class_attributes.py	/^        name = property(get_name, set_name)$/;"	kind:variable	line:112
+name	../koans/about_classes.py	/^        def name(self):$/;"	kind:member	line:104
+name	../koans/about_classes.py	/^        def name(self):$/;"	kind:member	line:84
+name	../koans/about_classes.py	/^        def name(self, a_name):$/;"	kind:member	line:88
+name	../koans/about_classes.py	/^        name = property(get_name, set_name)$/;"	kind:variable	line:65
+name	../koans/about_deleting_objects.py	/^            "Mr Eastwood's current alias")$/;"	kind:variable	line:73
+name	../koans/about_deleting_objects.py	/^        def name(self):$/;"	kind:member	line:91
+name	../koans/about_deleting_objects.py	/^        def name(self):$/;"	kind:member	line:99
+name	../koans/about_deleting_objects.py	/^        def name(self, name):$/;"	kind:member	line:95
+name	../koans/about_inheritance.py	/^        def name(self):$/;"	kind:member	line:12
+name	../koans/about_methods.py	/^        def name(self):$/;"	kind:member	line:134
+name	../koans/about_multiple_inheritance.py	/^        def name(self):$/;"	kind:member	line:37
+name	../koans/another_local_module.py	/^    def name(self):$/;"	kind:member	line:11
+name	../koans/another_local_module.py	/^    def name(self):$/;"	kind:member	line:16
+name	../koans/another_local_module.py	/^    def name(self):$/;"	kind:member	line:6
+name	../koans/local_module.py	/^    def name(self):$/;"	kind:member	line:9
+name	../koans/local_module_with_all_defined.py	/^    def name(self):$/;"	kind:member	line:11
+name	../koans/local_module_with_all_defined.py	/^    def name(self):$/;"	kind:member	line:16
+name	../koans/local_module_with_all_defined.py	/^    def name(self):$/;"	kind:member	line:21
+name_from_instance	../koans/about_class_attributes.py	/^        name_from_instance = property(get_name_from_instance, set_name_from_instance)$/;"	kind:variable	line:113
+names_from_file	../runner/path_to_enlightenment.py	/^def names_from_file(filename):$/;"	kind:function	line:31
+nonlocal_access	../koans/about_scope.py	/^    def nonlocal_access(self):$/;"	kind:member	line:91
+one_line_method	../koans/about_methods.py	/^    def one_line_method(self): return 'Madagascar'$/;"	kind:member	line:117
+orig_stderr	../libs/colorama/initialise.py	/^orig_stderr = sys.stderr$/;"	kind:variable	line:9
+orig_stdout	../libs/colorama/initialise.py	/^orig_stdout = sys.stdout$/;"	kind:variable	line:8
+os	../runner/sensei.py	/^import os$/;"	kind:namespace	line:7
+os	../runner/writeln_decorator.py	/^import os$/;"	kind:namespace	line:5
+os	../scent.py	/^import os$/;"	kind:namespace	line:2
+parrot	../koans/about_decorating_with_classes.py	/^    def parrot(self, text):$/;"	kind:member	line:60
+passesCount	../runner/sensei.py	/^    def passesCount(self):$/;"	kind:member	line:53
+patch	../libs/mock.py	/^def patch(target, new=DEFAULT, spec=None, create=False):$/;"	kind:function	line:256
+patch_object	../libs/mock.py	/^def patch_object(target, attribute, new=DEFAULT, spec=None, create=False):$/;"	kind:function	line:252
+patched	../libs/mock.py	/^        def patched(*args, **keywargs):$/;"	kind:function	line:187
+path_to_enlightenment	../runner/mountain.py	/^from . import path_to_enlightenment$/;"	kind:namespace	line:7
+path_to_enlightenment	../runner/sensei.py	/^from runner import path_to_enlightenment$/;"	kind:namespace	line:12
+path_to_enlightenment.py	../runner/path_to_enlightenment.py	1;"	kind:file	line:1
+pointless_method	../koans/about_methods.py	/^    def pointless_method(self, a, b):$/;"	kind:member	line:40
+power	../koans/about_proxy_object_project.py	/^    def power(self):$/;"	kind:member	line:114
+pte	../runner/runner_tests/test_path_to_enlightenment.py	/^from runner import path_to_enlightenment as pte$/;"	kind:namespace	line:7
+py	../koans/about_modules.py	/^        from . import local_module  # local_module.py$/;"	kind:namespace	line:17
+py	../koans/about_modules.py	/^        from .local_module import Duck  # local_module.py$/;"	kind:namespace	line:54
+py_files	../scent.py	/^def py_files(filename):$/;"	kind:function	line:7
+python	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+python	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+random	../koans/about_dice_project.py	/^import random$/;"	kind:namespace	line:6
+re	../koans/about_regex.py	/^import re$/;"	kind:namespace	line:5
+re	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+re	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+re	../libs/colorama/ansitowin32.py	/^import re$/;"	kind:namespace	line:2
+re	../runner/koan.py	/^import re$/;"	kind:namespace	line:5
+re	../runner/runner_tests/test_sensei.py	/^import re$/;"	kind:namespace	line:5
+re	../runner/sensei.py	/^import re$/;"	kind:namespace	line:5
+regular	../koans/about_string_manipulation.py	/^        import re #import python regular expression library$/;"	kind:namespace	line:46
+regular	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+reinit	../libs/colorama/__init__.py	/^from .initialise import init, deinit, reinit$/;"	kind:namespace	line:2
+reinit	../libs/colorama/initialise.py	/^def reinit():$/;"	kind:function	line:43
+render_tag	../koans/about_decorating_with_functions.py	/^    def render_tag(self, name):$/;"	kind:member	line:28
+report_progress	../runner/sensei.py	/^    def report_progress(self):$/;"	kind:member	line:169
+report_remaining	../runner/sensei.py	/^    def report_remaining(self):$/;"	kind:member	line:177
+res	../_runner_tests.py	/^    res = unittest.TextTestRunner(verbosity=2).run(suite())$/;"	kind:variable	line:25
+reset_all	../libs/colorama/ansitowin32.py	/^    def reset_all(self):$/;"	kind:member	line:123
+reset_all	../libs/colorama/initialise.py	/^def reset_all():$/;"	kind:function	line:17
+reset_all	../libs/colorama/winterm.py	/^    def reset_all(self, on_stderr=None):$/;"	kind:member	line:39
+reset_mock	../libs/mock.py	/^    def reset_mock(self):$/;"	kind:member	line:77
+return_value	../libs/mock.py	/^    return_value = property(__get_return_value, __set_return_value)$/;"	kind:variable	line:97
+roll	../koans/about_dice_project.py	/^    def roll(self, n):$/;"	kind:member	line:16
+say_something_zenlike	../runner/sensei.py	/^    def say_something_zenlike(self):$/;"	kind:member	line:192
+scent.py	../scent.py	1;"	kind:file	line:1
+score	../koans/about_scoring_project.py	/^def score(dice):$/;"	kind:function	line:35
+scrapeAssertionError	../runner/sensei.py	/^    def scrapeAssertionError(self, err):$/;"	kind:member	line:121
+scrapeInterestingStackDump	../runner/sensei.py	/^    def scrapeInterestingStackDump(self, err):$/;"	kind:member	line:135
+sensei.py	../runner/sensei.py	1;"	kind:file	line:1
+sentinel	../libs/mock.py	/^sentinel = Sentinel()$/;"	kind:variable	line:42
+setUp	../runner/runner_tests/test_mountain.py	/^    def setUp(self):$/;"	kind:member	line:11
+setUp	../runner/runner_tests/test_sensei.py	/^    def setUp(self):$/;"	kind:member	line:85
+set_attrs	../libs/colorama/winterm.py	/^    def set_attrs(self, value):$/;"	kind:member	line:34
+set_console	../libs/colorama/winterm.py	/^    def set_console(self, attrs=None, on_stderr=False):$/;"	kind:member	line:61
+set_cursor_position	../libs/colorama/winterm.py	/^    def set_cursor_position(self, position=None, on_stderr=False):$/;"	kind:member	line:77
+set_name	../koans/about_class_attributes.py	/^        def set_name(cls, name):$/;"	kind:member	line:109
+set_name	../koans/about_classes.py	/^        def set_name(self, a_name):$/;"	kind:member	line:26
+set_name	../koans/about_classes.py	/^        def set_name(self, a_name):$/;"	kind:member	line:59
+set_name	../koans/about_deleting_objects.py	/^        def set_name(self, name):$/;"	kind:member	line:66
+set_name	../koans/about_multiple_inheritance.py	/^        def set_name(self, new_name):$/;"	kind:member	line:15
+set_name_from_instance	../koans/about_class_attributes.py	/^        def set_name_from_instance(self, name):$/;"	kind:member	line:101
+should_wrap	../libs/colorama/ansitowin32.py	/^    def should_wrap(self):$/;"	kind:member	line:74
+simple_generator_method	../koans/about_generators.py	/^    def simple_generator_method(self):$/;"	kind:member	line:52
+sortFailures	../runner/sensei.py	/^    def sortFailures(self, testClassName):$/;"	kind:member	line:59
+sound_check	../koans/about_decorating_with_classes.py	/^    def sound_check(self):$/;"	kind:member	line:72
+speak	../koans/about_multiple_inheritance.py	/^        def speak(self):$/;"	kind:member	line:40
+speak	../koans/about_multiple_inheritance.py	/^        def speak(self):$/;"	kind:member	line:72
+split	../libs/colorama/ansitowin32.py	/^        def split(paramstring):$/;"	kind:function	line:158
+square_me	../koans/about_generators.py	/^    def square_me(self, seq):$/;"	kind:member	line:72
+stack_depth	../koans/about_attribute_access.py	/^    stack_depth = 0$/;"	kind:variable	line:87
+standard	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+startTest	../runner/sensei.py	/^    def startTest(self, test):$/;"	kind:member	line:27
+str	../koans/about_scope.py	/^    class str:$/;"	kind:class	line:34
+string	../koans/about_with_statements.py	/^import re # For regular expression string comparisons$/;"	kind:namespace	line:10
+style	../libs/colorama/winterm.py	/^    def style(self, style=None, on_stderr=False):$/;"	kind:member	line:55
+suite	../_runner_tests.py	/^def suite():$/;"	kind:function	line:14
+sum_it	../koans/about_generators.py	/^    def sum_it(self, seq):$/;"	kind:member	line:82
+sys	../_runner_tests.py	/^import sys$/;"	kind:namespace	line:4
+sys	../contemplate_koans.py	/^import sys$/;"	kind:namespace	line:13
+sys	../libs/colorama/ansitowin32.py	/^import sys$/;"	kind:namespace	line:3
+sys	../libs/colorama/initialise.py	/^import sys$/;"	kind:namespace	line:3
+sys	../runner/mountain.py	/^import sys$/;"	kind:namespace	line:5
+sys	../runner/sensei.py	/^import sys$/;"	kind:namespace	line:6
+sys	../runner/writeln_decorator.py	/^import sys$/;"	kind:namespace	line:4
+test_a_better_way_of_asserting_equality	../koans/about_asserts.py	/^    def test_a_better_way_of_asserting_equality(self):$/;"	kind:member	line:39
+test_a_module_can_limit_wildcard_imports	../koans/about_modules.py	/^    def test_a_module_can_limit_wildcard_imports(self):$/;"	kind:member	line:61
+test_accessing_dictionaries	../koans/about_dictionaries.py	/^    def test_accessing_dictionaries(self):$/;"	kind:member	line:23
+test_accessing_lambda_via_assignment	../koans/about_lambdas.py	/^    def test_accessing_lambda_via_assignment(self):$/;"	kind:member	line:20
+test_accessing_lambda_without_assignment	../koans/about_lambdas.py	/^    def test_accessing_lambda_without_assignment(self):$/;"	kind:member	line:27
+test_accessing_list_elements	../koans/about_lists.py	/^    def test_accessing_list_elements(self):$/;"	kind:member	line:29
+test_adjacent_strings_are_concatenated_automatically	../koans/about_strings.py	/^    def test_adjacent_strings_are_concatenated_automatically(self):$/;"	kind:function	line:66
+test_after_patching_dogs_can_both_wag_and_bark	../koans/about_monkey_patching.py	/^    def test_after_patching_dogs_can_both_wag_and_bark(self):$/;"	kind:member	line:22
+test_all_attribute_reads_are_caught	../koans/about_attribute_access.py	/^    def test_all_attribute_reads_are_caught(self):$/;"	kind:member	line:36
+test_all_classes_in_python_3_ultimately_inherit_from_object_class	../koans/about_inheritance.py	/^    def test_all_classes_in_python_3_ultimately_inherit_from_object_class(self):$/;"	kind:member	line:28
+test_all_iteration_methods_work_on_any_sequence_not_just_lists	../koans/about_iteration.py	/^    def test_all_iteration_methods_work_on_any_sequence_not_just_lists(self):$/;"	kind:member	line:118
+test_all_objects_support_str_and_repr	../koans/about_classes.py	/^    def test_all_objects_support_str_and_repr(self):$/;"	kind:member	line:161
+test_another_way_to_make_a_deletable_property	../koans/about_deleting_objects.py	/^    def test_another_way_to_make_a_deletable_property(self):$/;"	kind:member	line:102
+test_any_python_expression_may_be_interpolated	../koans/about_string_manipulation.py	/^    def test_any_python_expression_may_be_interpolated(self):$/;"	kind:member	line:20
+test_anything_but_matching	../koans/about_regex.py	/^    def test_anything_but_matching(self):$/;"	kind:member	line:92
+test_args_must_match_init	../koans/about_classes.py	/^    def test_args_must_match_init(self):$/;"	kind:member	line:111
+test_as_defined_dogs_do_bark	../koans/about_monkey_patching.py	/^    def test_as_defined_dogs_do_bark(self):$/;"	kind:member	line:15
+test_assert_equality	../koans/about_asserts.py	/^    def test_assert_equality(self):$/;"	kind:member	line:31
+test_assert_truth	../koans/about_asserts.py	/^    def test_assert_truth(self):$/;"	kind:member	line:8
+test_assert_with_message	../koans/about_asserts.py	/^    def test_assert_with_message(self):$/;"	kind:member	line:19
+test_attributes_with_double_underscore_prefixes_are_subject_to_name_mangling	../koans/about_methods.py	/^    def test_attributes_with_double_underscore_prefixes_are_subject_to_name_mangling(self):$/;"	kind:member	line:154
+test_bare_bones_class_names_do_not_assume_the_current_scope	../koans/about_scope.py	/^    def test_bare_bones_class_names_do_not_assume_the_current_scope(self):$/;"	kind:member	line:37
+test_base_class_methods_are_also_available_in_the_object	../koans/about_multiple_inheritance.py	/^    def test_base_class_methods_are_also_available_in_the_object(self):$/;"	kind:member	line:92
+test_base_class_methods_can_affect_instance_variables_in_the_object	../koans/about_multiple_inheritance.py	/^    def test_base_class_methods_can_affect_instance_variables_in_the_object(self):$/;"	kind:member	line:100
+test_base_init_does_not_get_called_automatically	../koans/about_inheritance.py	/^    def test_base_init_does_not_get_called_automatically(self):$/;"	kind:member	line:83
+test_base_init_has_to_be_called_explicitly	../koans/about_inheritance.py	/^    def test_base_init_has_to_be_called_explicitly(self):$/;"	kind:member	line:87
+test_before_sending_a_value_to_a_generator_next_must_be_called	../koans/about_generators.py	/^    def test_before_sending_a_value_to_a_generator_next_must_be_called(self):$/;"	kind:member	line:111
+test_blank_strings_are_treated_as_false	../koans/about_true_and_false.py	/^    def test_blank_strings_are_treated_as_false(self):$/;"	kind:member	line:32
+test_break_statement	../koans/about_control_statements.py	/^    def test_break_statement(self):$/;"	kind:member	line:38
+test_calling_a_global_function	../koans/about_methods.py	/^    def test_calling_a_global_function(self):$/;"	kind:member	line:14
+test_calling_functions_with_wrong_number_of_arguments	../koans/about_methods.py	/^    def test_calling_functions_with_wrong_number_of_arguments(self):$/;"	kind:member	line:19
+test_calling_getattribute_causes_an_attribute_error	../koans/about_attribute_access.py	/^    def test_calling_getattribute_causes_an_attribute_error(self):$/;"	kind:member	line:20
+test_calling_methods_in_other_objects	../koans/about_methods.py	/^    def test_calling_methods_in_other_objects(self):$/;"	kind:member	line:144
+test_calling_methods_in_same_class_with_explicit_receiver	../koans/about_methods.py	/^    def test_calling_methods_in_same_class_with_explicit_receiver(self):$/;"	kind:member	line:78
+test_calling_undefined_functions_normally_results_in_errors	../koans/about_attribute_access.py	/^    def test_calling_undefined_functions_normally_results_in_errors(self):$/;"	kind:member	line:15
+test_calling_with_default_values	../koans/about_methods.py	/^    def test_calling_with_default_values(self):$/;"	kind:member	line:53
+test_calling_with_variable_arguments	../koans/about_methods.py	/^    def test_calling_with_variable_arguments(self):$/;"	kind:member	line:62
+test_can_create_a_dice_set	../koans/about_dice_project.py	/^    def test_can_create_a_dice_set(self):$/;"	kind:member	line:22
+test_can_set_the_channel	../koans/about_proxy_object_project.py	/^    def test_can_set_the_channel(self):$/;"	kind:member	line:152
+test_changes_to_the_getattribute_implementation_affects_getattr_function	../koans/about_attribute_access.py	/^    def test_changes_to_the_getattribute_implementation_affects_getattr_function(self):$/;"	kind:member	line:59
+test_changing_dictionaries	../koans/about_dictionaries.py	/^    def test_changing_dictionaries(self):$/;"	kind:member	line:28
+test_classes_and_instances_do_not_share_instance_attributes	../koans/about_class_attributes.py	/^    def test_classes_and_instances_do_not_share_instance_attributes(self):$/;"	kind:member	line:119
+test_classes_and_instances_do_share_class_attributes	../koans/about_class_attributes.py	/^    def test_classes_and_instances_do_share_class_attributes(self):$/;"	kind:member	line:126
+test_classes_are_objects_too	../koans/about_class_attributes.py	/^    def test_classes_are_objects_too(self):$/;"	kind:member	line:21
+test_classes_are_types	../koans/about_class_attributes.py	/^    def test_classes_are_types(self):$/;"	kind:member	line:18
+test_classes_have_docstrings	../koans/about_classes.py	/^    def test_classes_have_docstrings(self):$/;"	kind:member	line:17
+test_classes_have_methods	../koans/about_class_attributes.py	/^    def test_classes_have_methods(self):$/;"	kind:member	line:28
+test_classmethods_are_not_independent_of_instance_methods	../koans/about_class_attributes.py	/^    def test_classmethods_are_not_independent_of_instance_methods(self):$/;"	kind:member	line:80
+test_classmethods_can_not_be_used_as_properties	../koans/about_class_attributes.py	/^    def test_classmethods_can_not_be_used_as_properties(self):$/;"	kind:member	line:115
+test_commented_out_names_are_excluded	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_commented_out_names_are_excluded(self):$/;"	kind:member	line:47
+test_confirm_the_mro_controls_the_calling_order	../koans/about_multiple_inheritance.py	/^    def test_confirm_the_mro_controls_the_calling_order(self):$/;"	kind:member	line:127
+test_constants_are_assumed_by_convention_only	../koans/about_scope.py	/^    def test_constants_are_assumed_by_convention_only(self):$/;"	kind:member	line:55
+test_constants_are_defined_with_an_initial_uppercase_letter	../koans/about_scope.py	/^    def test_constants_are_defined_with_an_initial_uppercase_letter(self):$/;"	kind:member	line:50
+test_continue_statement	../koans/about_control_statements.py	/^    def test_continue_statement(self):$/;"	kind:member	line:47
+test_convert_the_set_into_a_list_to_sort_it	../koans/about_sets.py	/^    def test_convert_the_set_into_a_list_to_sort_it(self):$/;"	kind:member	line:31
+test_counting_lines	../koans/about_with_statements.py	/^    def test_counting_lines(self):$/;"	kind:member	line:24
+test_counting_lines2	../koans/about_with_statements.py	/^    def test_counting_lines2(self):$/;"	kind:member	line:87
+test_creating_a_dictionary_with_dictionary_comprehension	../koans/about_comprehension.py	/^    def test_creating_a_dictionary_with_dictionary_comprehension(self):$/;"	kind:member	line:51
+test_creating_a_set_with_set_comprehension	../koans/about_comprehension.py	/^    def test_creating_a_set_with_set_comprehension(self):$/;"	kind:member	line:46
+test_creating_a_tuple	../koans/about_tuples.py	/^    def test_creating_a_tuple(self):$/;"	kind:member	line:7
+test_creating_dictionaries	../koans/about_dictionaries.py	/^    def test_creating_dictionaries(self):$/;"	kind:member	line:11
+test_creating_empty_tuples	../koans/about_tuples.py	/^    def test_creating_empty_tuples(self):$/;"	kind:member	line:47
+test_creating_lists	../koans/about_lists.py	/^    def test_creating_lists(self):$/;"	kind:member	line:11
+test_creating_lists_with_list_comprehensions	../koans/about_comprehension.py	/^    def test_creating_lists_with_list_comprehensions(self):$/;"	kind:member	line:10
+test_creating_objects_without_defining_a_class	../koans/about_class_attributes.py	/^    def test_creating_objects_without_defining_a_class(self):$/;"	kind:member	line:31
+test_creating_properties_with_decorators_is_slightly_easier	../koans/about_classes.py	/^    def test_creating_properties_with_decorators_is_slightly_easier(self):$/;"	kind:member	line:91
+test_creating_sets_using_strings	../koans/about_sets.py	/^    def test_creating_sets_using_strings(self):$/;"	kind:member	line:27
+test_decorator_with_an_argument	../koans/about_decorating_with_classes.py	/^    def test_decorator_with_an_argument(self):$/;"	kind:member	line:110
+test_decorator_with_no_arguments	../koans/about_decorating_with_classes.py	/^    def test_decorator_with_no_arguments(self):$/;"	kind:member	line:63
+test_decorators_can_change_a_function_output	../koans/about_decorating_with_functions.py	/^    def test_decorators_can_change_a_function_output(self):$/;"	kind:member	line:31
+test_decorators_can_modify_a_function	../koans/about_decorating_with_functions.py	/^    def test_decorators_can_modify_a_function(self):$/;"	kind:member	line:16
+test_defining_attributes_on_individual_objects	../koans/about_class_attributes.py	/^    def test_defining_attributes_on_individual_objects(self):$/;"	kind:member	line:35
+test_defining_functions_on_individual_objects	../koans/about_class_attributes.py	/^    def test_defining_functions_on_individual_objects(self):$/;"	kind:member	line:41
+test_del_can_remove_attributes	../koans/about_deleting_objects.py	/^    def test_del_can_remove_attributes(self):$/;"	kind:member	line:36
+test_del_can_remove_entire_lists	../koans/about_deleting_objects.py	/^    def test_del_can_remove_entire_lists(self):$/;"	kind:member	line:14
+test_del_can_remove_slices	../koans/about_deleting_objects.py	/^    def test_del_can_remove_slices(self):$/;"	kind:member	line:7
+test_del_works_with_properties	../koans/about_deleting_objects.py	/^    def test_del_works_with_properties(self):$/;"	kind:member	line:75
+test_dice_values_do_not_change_unless_explicitly_rolled	../koans/about_dice_project.py	/^    def test_dice_values_do_not_change_unless_explicitly_rolled(self):$/;"	kind:member	line:35
+test_dice_values_should_change_between_rolls	../koans/about_dice_project.py	/^    def test_dice_values_should_change_between_rolls(self):$/;"	kind:member	line:42
+test_dictionaries_and_sets_use_same_curly_braces	../koans/about_sets.py	/^    def test_dictionaries_and_sets_use_same_curly_braces(self):$/;"	kind:member	line:18
+test_dictionary_is_unordered	../koans/about_dictionaries.py	/^    def test_dictionary_is_unordered(self):$/;"	kind:member	line:35
+test_dictionary_keys_and_values	../koans/about_dictionaries.py	/^    def test_dictionary_keys_and_values(self):$/;"	kind:member	line:42
+test_dictionary_literals	../koans/about_dictionaries.py	/^    def test_dictionary_literals(self):$/;"	kind:member	line:17
+test_different_objects_have_different_instance_variables	../koans/about_classes.py	/^    def test_different_objects_have_different_instance_variables(self):$/;"	kind:member	line:118
+test_documentor_which_already_has_a_docstring	../koans/about_decorating_with_classes.py	/^    def test_documentor_which_already_has_a_docstring(self):$/;"	kind:member	line:114
+test_dog_is_not_available_in_the_current_scope	../koans/about_scope.py	/^    def test_dog_is_not_available_in_the_current_scope(self):$/;"	kind:member	line:18
+test_double_list_comprehension	../koans/about_comprehension.py	/^    def test_double_list_comprehension(self):$/;"	kind:member	line:35
+test_double_quoted_strings_are_strings	../koans/about_strings.py	/^    def test_double_quoted_strings_are_strings(self):$/;"	kind:member	line:8
+test_edge_case_on_off	../koans/about_proxy_object_project.py	/^    def test_edge_case_on_off(self):$/;"	kind:member	line:139
+test_else_clause	../koans/about_exceptions.py	/^    def test_else_clause(self):$/;"	kind:member	line:48
+test_empty_collections_are_treated_as_false	../koans/about_true_and_false.py	/^    def test_empty_collections_are_treated_as_false(self):$/;"	kind:member	line:26
+test_empty_input_produces_empty_output	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_empty_input_produces_empty_output(self):$/;"	kind:member	line:12
+test_empty_input_produces_empty_testsuite	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_empty_input_produces_empty_testsuite(self):$/;"	kind:member	line:79
+test_empty_sets_have_different_syntax_to_populated_sets	../koans/about_sets.py	/^    def test_empty_sets_have_different_syntax_to_populated_sets(self):$/;"	kind:member	line:14
+test_equilateral_triangles_have_equal_sides	../koans/about_triangle_project.py	/^    def test_equilateral_triangles_have_equal_sides(self):$/;"	kind:member	line:10
+test_escaping_quotes_at_the_end_of_triple_quoted_string	../koans/about_strings.py	/^    def test_escaping_quotes_at_the_end_of_triple_quoted_string(self):$/;"	kind:function	line:58
+test_everything_else_is_treated_as_true	../koans/about_true_and_false.py	/^    def test_everything_else_is_treated_as_true(self):$/;"	kind:member	line:35
+test_exceptions_inherit_from_exception	../koans/about_exceptions.py	/^    def test_exceptions_inherit_from_exception(self):$/;"	kind:member	line:11
+test_extra_credit_task	../koans/about_extra_credit.py	/^    def test_extra_credit_task(self):$/;"	kind:member	line:18
+test_false_is_treated_as_false	../koans/about_true_and_false.py	/^    def test_false_is_treated_as_false(self):$/;"	kind:member	line:17
+test_fill_in_values	../koans/about_asserts.py	/^    def test_fill_in_values(self):$/;"	kind:member	line:25
+test_filter_all_lessons_will_discover_test_classes_if_none_have_been_discovered_yet	../runner/runner_tests/test_sensei.py	/^    def test_filter_all_lessons_will_discover_test_classes_if_none_have_been_discovered_yet(self):$/;"	kind:member	line:259
+test_filter_selects_certain_items_from_a_list	../koans/about_iteration.py	/^    def test_filter_selects_certain_items_from_a_list(self):$/;"	kind:member	line:55
+test_filtering_lists_with_list_comprehensions	../koans/about_comprehension.py	/^    def test_filtering_lists_with_list_comprehensions(self):$/;"	kind:member	line:19
+test_finally_clause	../koans/about_exceptions.py	/^    def test_finally_clause(self):$/;"	kind:member	line:61
+test_finding_lines	../koans/about_with_statements.py	/^    def test_finding_lines(self):$/;"	kind:member	line:43
+test_finding_lines2	../koans/about_with_statements.py	/^    def test_finding_lines2(self):$/;"	kind:member	line:96
+test_foo_attributes_are_caught	../koans/about_attribute_access.py	/^    def test_foo_attributes_are_caught(self):$/;"	kind:member	line:73
+test_for_statement	../koans/about_control_statements.py	/^    def test_for_statement(self):$/;"	kind:member	line:56
+test_for_statement_with_tuples	../koans/about_control_statements.py	/^    def test_for_statement_with_tuples(self):$/;"	kind:member	line:63
+test_formatted_values_can_be_shown_in_any_order_or_be_repeated	../koans/about_string_manipulation.py	/^    def test_formatted_values_can_be_shown_in_any_order_or_be_repeated(self):$/;"	kind:member	line:14
+test_functions_can_have_inner_functions	../koans/about_method_bindings.py	/^    def test_functions_can_have_inner_functions(self):$/;"	kind:member	line:48
+test_functions_have_attributes	../koans/about_method_bindings.py	/^    def test_functions_have_attributes(self):$/;"	kind:member	line:26
+test_functions_without_self_arg_are_global_functions	../koans/about_methods.py	/^    def test_functions_without_self_arg_are_global_functions(self):$/;"	kind:member	line:72
+test_generating_values_on_the_fly	../koans/about_generators.py	/^    def test_generating_values_on_the_fly(self):$/;"	kind:member	line:15
+test_generator_expressions_are_a_one_shot_deal	../koans/about_generators.py	/^    def test_generator_expressions_are_a_one_shot_deal(self):$/;"	kind:member	line:41
+test_generator_keeps_track_of_local_variables	../koans/about_generators.py	/^    def test_generator_keeps_track_of_local_variables(self):$/;"	kind:member	line:89
+test_generator_method_will_yield_values_during_iteration	../koans/about_generators.py	/^    def test_generator_method_will_yield_values_during_iteration(self):$/;"	kind:member	line:58
+test_generator_method_with_parameter	../koans/about_generators.py	/^    def test_generator_method_with_parameter(self):$/;"	kind:member	line:76
+test_generators_are_different_to_list_comprehensions	../koans/about_generators.py	/^    def test_generators_are_different_to_list_comprehensions(self):$/;"	kind:member	line:24
+test_generators_can_act_as_coroutines	../koans/about_generators.py	/^    def test_generators_can_act_as_coroutines(self):$/;"	kind:member	line:99
+test_generators_can_be_manually_iterated_and_closed	../koans/about_generators.py	/^    def test_generators_can_be_manually_iterated_and_closed(self):$/;"	kind:member	line:64
+test_generators_can_see_if_they_have_been_called_with_a_value	../koans/about_generators.py	/^    def test_generators_can_see_if_they_have_been_called_with_a_value(self):$/;"	kind:member	line:128
+test_get_descriptor_resolves_attribute_binding	../koans/about_method_bindings.py	/^    def test_get_descriptor_resolves_attribute_binding(self):$/;"	kind:member	line:64
+test_getattr_ignores_known_attributes	../koans/about_attribute_access.py	/^    def test_getattr_ignores_known_attributes(self):$/;"	kind:member	line:134
+test_getattr_only_catches_unknown_attributes	../koans/about_attribute_access.py	/^    def test_getattr_only_catches_unknown_attributes(self):$/;"	kind:member	line:140
+test_getattribute_is_a_bit_overzealous_sometimes	../koans/about_attribute_access.py	/^    def test_getattribute_is_a_bit_overzealous_sometimes(self):$/;"	kind:member	line:113
+test_getting_something_locally	../koans/about_scope.py	/^    def test_getting_something_locally(self):$/;"	kind:member	line:98
+test_getting_something_nonlocally	../koans/about_scope.py	/^    def test_getting_something_nonlocally(self):$/;"	kind:member	line:101
+test_global_attributes_can_be_created_in_the_middle_of_a_class	../koans/about_scope.py	/^    def test_global_attributes_can_be_created_in_the_middle_of_a_class(self):$/;"	kind:member	line:109
+test_helper.py	../runner/runner_tests/test_helper.py	1;"	kind:file	line:1
+test_heres_an_easy_way_to_explicitly_call_class_methods_from_instance_methods	../koans/about_class_attributes.py	/^    def test_heres_an_easy_way_to_explicitly_call_class_methods_from_instance_methods(self):$/;"	kind:member	line:152
+test_if_then_elif_else_statements	../koans/about_control_statements.py	/^    def test_if_then_elif_else_statements(self):$/;"	kind:member	line:21
+test_if_then_else_statements	../koans/about_control_statements.py	/^    def test_if_then_else_statements(self):$/;"	kind:member	line:8
+test_if_then_statements	../koans/about_control_statements.py	/^    def test_if_then_statements(self):$/;"	kind:member	line:15
+test_illegal_triangles_throw_exceptions	../koans/about_triangle_project2.py	/^    def test_illegal_triangles_throw_exceptions(self):$/;"	kind:member	line:12
+test_import_a_module_in_a_subfolder_folder_using_an_absolute_path	../koans/about_packages.py	/^    def test_import_a_module_in_a_subfolder_folder_using_an_absolute_path(self):$/;"	kind:member	line:56
+test_importing_all_module_attributes_at_once	../koans/about_modules.py	/^    def test_importing_all_module_attributes_at_once(self):$/;"	kind:member	line:36
+test_importing_attributes_from_classes_using_from_keyword	../koans/about_modules.py	/^    def test_importing_attributes_from_classes_using_from_keyword(self):$/;"	kind:member	line:22
+test_importing_other_python_scripts_as_modules	../koans/about_modules.py	/^    def test_importing_other_python_scripts_as_modules(self):$/;"	kind:member	line:16
+test_in_this_case_private_attributes_remain_unmangled	../koans/about_attribute_access.py	/^    def test_in_this_case_private_attributes_remain_unmangled(self):$/;"	kind:member	line:207
+test_incrementing_with_global_counter	../koans/about_scope.py	/^    def test_incrementing_with_global_counter(self):$/;"	kind:member	line:76
+test_incrementing_with_local_counter	../koans/about_scope.py	/^    def test_incrementing_with_local_counter(self):$/;"	kind:member	line:70
+test_init_method_is_the_constructor	../koans/about_classes.py	/^    def test_init_method_is_the_constructor(self):$/;"	kind:member	line:29
+test_init_provides_initial_values_for_instance_variables	../koans/about_classes.py	/^    def test_init_provides_initial_values_for_instance_variables(self):$/;"	kind:member	line:107
+test_inner_functions_are_unbound	../koans/about_method_bindings.py	/^    def test_inner_functions_are_unbound(self):$/;"	kind:member	line:52
+test_insertions	../koans/about_lists.py	/^    def test_insertions(self):$/;"	kind:member	line:67
+test_inside_a_method_self_refers_to_the_containing_object	../koans/about_classes.py	/^    def test_inside_a_method_self_refers_to_the_containing_object(self):$/;"	kind:member	line:142
+test_instances_inherit_behavior_from_parent_class	../koans/about_inheritance.py	/^    def test_instances_inherit_behavior_from_parent_class(self):$/;"	kind:member	line:34
+test_instances_of_classes_can_be_created_adding_parentheses	../koans/about_classes.py	/^    def test_instances_of_classes_can_be_created_adding_parentheses(self):$/;"	kind:member	line:11
+test_intercepting_return_values_can_disrupt_the_call_chain	../koans/about_attribute_access.py	/^    def test_intercepting_return_values_can_disrupt_the_call_chain(self):$/;"	kind:member	line:41
+test_isosceles_triangles_have_exactly_two_sides_equal	../koans/about_triangle_project.py	/^    def test_isosceles_triangles_have_exactly_two_sides_equal(self):$/;"	kind:member	line:14
+test_it_also_turns_off	../koans/about_proxy_object_project.py	/^    def test_it_also_turns_off(self):$/;"	kind:member	line:131
+test_it_gets_test_results	../runner/runner_tests/test_mountain.py	/^    def test_it_gets_test_results(self):$/;"	kind:member	line:14
+test_it_mangles_some_internal_attributes	../koans/about_attribute_access.py	/^    def test_it_mangles_some_internal_attributes(self):$/;"	kind:member	line:199
+test_it_modifies_external_attribute_as_expected	../koans/about_attribute_access.py	/^    def test_it_modifies_external_attribute_as_expected(self):$/;"	kind:member	line:193
+test_it_turns_on	../koans/about_proxy_object_project.py	/^    def test_it_turns_on(self):$/;"	kind:member	line:125
+test_iterating_with_next	../koans/about_iteration.py	/^    def test_iterating_with_next(self):$/;"	kind:member	line:18
+test_iterators_are_a_type	../koans/about_iteration.py	/^    def test_iterators_are_a_type(self):$/;"	kind:member	line:8
+test_just_return_first_item_found	../koans/about_iteration.py	/^    def test_just_return_first_item_found(self):$/;"	kind:member	line:67
+test_lambdas_can_be_assigned_to_variables_and_called_explicitly	../koans/about_lambdas.py	/^    def test_lambdas_can_be_assigned_to_variables_and_called_explicitly(self):$/;"	kind:member	line:11
+test_left_hand_side_inheritance_tends_to_be_higher_priority	../koans/about_multiple_inheritance.py	/^    def test_left_hand_side_inheritance_tends_to_be_higher_priority(self):$/;"	kind:member	line:107
+test_list_literals	../koans/about_lists.py	/^    def test_list_literals(self):$/;"	kind:member	line:16
+test_lists_and_ranges	../koans/about_lists.py	/^    def test_lists_and_ranges(self):$/;"	kind:member	line:54
+test_making_a_dictionary_from_a_sequence_of_keys	../koans/about_dictionaries.py	/^    def test_making_a_dictionary_from_a_sequence_of_keys(self):$/;"	kind:member	line:51
+test_making_queues	../koans/about_lists.py	/^    def test_making_queues(self):$/;"	kind:member	line:97
+test_map_transforms_elements_of_a_list	../koans/about_iteration.py	/^    def test_map_transforms_elements_of_a_list(self):$/;"	kind:member	line:36
+test_matching_any_character	../koans/about_regex.py	/^    def test_matching_any_character(self):$/;"	kind:member	line:53
+test_matching_literal_text	../koans/about_regex.py	/^    def test_matching_literal_text(self):$/;"	kind:member	line:13
+test_matching_literal_text_how_many	../koans/about_regex.py	/^    def test_matching_literal_text_how_many(self):$/;"	kind:member	line:21
+test_matching_literal_text_not_case_sensitivity	../koans/about_regex.py	/^    def test_matching_literal_text_not_case_sensitivity(self):$/;"	kind:member	line:40
+test_matching_set_character	../koans/about_regex.py	/^    def test_matching_set_character(self):$/;"	kind:member	line:71
+test_methods_are_also_bound_to_a_function	../koans/about_method_bindings.py	/^    def test_methods_are_also_bound_to_a_function(self):$/;"	kind:member	line:21
+test_methods_are_bound_to_an_object	../koans/about_method_bindings.py	/^    def test_methods_are_bound_to_an_object(self):$/;"	kind:member	line:17
+test_methods_have_different_attributes	../koans/about_method_bindings.py	/^    def test_methods_have_different_attributes(self):$/;"	kind:member	line:31
+test_methods_that_do_nothing_need_to_use_pass_as_a_filler	../koans/about_methods.py	/^    def test_methods_that_do_nothing_need_to_use_pass_as_a_filler(self):$/;"	kind:member	line:105
+test_modules_hide_attributes_prefixed_by_underscores	../koans/about_modules.py	/^    def test_modules_hide_attributes_prefixed_by_underscores(self):$/;"	kind:member	line:49
+test_most_built_in_classes_cannot_be_monkey_patched	../koans/about_monkey_patching.py	/^    def test_most_built_in_classes_cannot_be_monkey_patched(self):$/;"	kind:member	line:32
+test_most_strings_interpret_escape_characters	../koans/about_strings.py	/^    def test_most_strings_interpret_escape_characters(self):$/;"	kind:function	line:90
+test_mountain.py	../runner/runner_tests/test_mountain.py	1;"	kind:file	line:1
+test_names_yielded_match_names_in_file	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_names_yielded_match_names_in_file(self):$/;"	kind:member	line:19
+test_nested_string_is_not_the_same_as_the_system_string	../koans/about_scope.py	/^    def test_nested_string_is_not_the_same_as_the_system_string(self):$/;"	kind:member	line:40
+test_no_indentation_required_for_one_line_statement_bodies	../koans/about_methods.py	/^    def test_no_indentation_required_for_one_line_statement_bodies(self):$/;"	kind:member	line:119
+test_non_foo_messages_are_treated_normally	../koans/about_attribute_access.py	/^    def test_non_foo_messages_are_treated_normally(self):$/;"	kind:member	line:79
+test_non_parallel_assignment	../koans/about_list_assignments.py	/^    def test_non_parallel_assignment(self):$/;"	kind:member	line:11
+test_none_is_an_object	../koans/about_none.py	/^    def test_none_is_an_object(self):$/;"	kind:member	line:12
+test_none_is_distinct	../koans/about_none.py	/^    def test_none_is_distinct(self):$/;"	kind:member	line:46
+test_none_is_treated_as_false	../koans/about_true_and_false.py	/^    def test_none_is_treated_as_false(self):$/;"	kind:member	line:20
+test_none_is_universal	../koans/about_none.py	/^    def test_none_is_universal(self):$/;"	kind:member	line:16
+test_normal_methods_are_available_in_the_object	../koans/about_multiple_inheritance.py	/^    def test_normal_methods_are_available_in_the_object(self):$/;"	kind:member	line:88
+test_objects_are_objects	../koans/about_class_attributes.py	/^    def test_objects_are_objects(self):$/;"	kind:member	line:14
+test_objects_have_methods	../koans/about_class_attributes.py	/^    def test_objects_have_methods(self):$/;"	kind:member	line:24
+test_ones_not_left_out	../koans/about_scoring_project.py	/^    def test_ones_not_left_out(self):$/;"	kind:member	line:70
+test_open_already_has_its_own_built_in_context_manager	../koans/about_with_statements.py	/^    def test_open_already_has_its_own_built_in_context_manager(self):$/;"	kind:member	line:106
+test_other_objects_are_not_affected_by_these_singleton_functions	../koans/about_class_attributes.py	/^    def test_other_objects_are_not_affected_by_these_singleton_functions(self):$/;"	kind:member	line:47
+test_parallel_assignments	../koans/about_list_assignments.py	/^    def test_parallel_assignments(self):$/;"	kind:member	line:15
+test_parallel_assignments_with_extra_values	../koans/about_list_assignments.py	/^    def test_parallel_assignments_with_extra_values(self):$/;"	kind:member	line:20
+test_parallel_assignments_with_sublists	../koans/about_list_assignments.py	/^    def test_parallel_assignments_with_sublists(self):$/;"	kind:member	line:26
+test_partial_that_wrappers_all_args	../koans/about_decorating_with_classes.py	/^    def test_partial_that_wrappers_all_args(self):$/;"	kind:member	line:31
+test_partial_that_wrappers_first_arg	../koans/about_decorating_with_classes.py	/^    def test_partial_that_wrappers_first_arg(self):$/;"	kind:member	line:25
+test_partial_that_wrappers_no_args	../koans/about_decorating_with_classes.py	/^    def test_partial_that_wrappers_no_args(self):$/;"	kind:member	line:15
+test_pass_does_nothing_at_all	../koans/about_methods.py	/^    def test_pass_does_nothing_at_all(self):$/;"	kind:member	line:108
+test_path_to_enlightenment.py	../runner/runner_tests/test_path_to_enlightenment.py	1;"	kind:file	line:1
+test_plus_concatenates_strings	../koans/about_strings.py	/^    def test_plus_concatenates_strings(self):$/;"	kind:function	line:62
+test_plus_equals_also_leaves_original_string_unmodified	../koans/about_strings.py	/^    def test_plus_equals_also_leaves_original_string_unmodified(self):$/;"	kind:function	line:83
+test_plus_equals_will_append_to_end_of_string	../koans/about_strings.py	/^    def test_plus_equals_will_append_to_end_of_string(self):$/;"	kind:function	line:77
+test_plus_will_not_modify_original_strings	../koans/about_strings.py	/^    def test_plus_will_not_modify_original_strings(self):$/;"	kind:function	line:70
+test_popping_lists	../koans/about_lists.py	/^    def test_popping_lists(self):$/;"	kind:member	line:75
+test_private_access_is_implied_but_not_enforced	../koans/about_methods.py	/^    def test_private_access_is_implied_but_not_enforced(self):$/;"	kind:member	line:148
+test_private_attributes_are_not_really_private	../koans/about_classes.py	/^    def test_private_attributes_are_not_really_private(self):$/;"	kind:member	line:33
+test_private_attributes_are_still_accessible_in_modules	../koans/about_modules.py	/^    def test_private_attributes_are_still_accessible_in_modules(self):$/;"	kind:member	line:53
+test_proxy_can_record_more_than_just_tv_objects	../koans/about_proxy_object_project.py	/^    def test_proxy_can_record_more_than_just_tv_objects(self):$/;"	kind:member	line:84
+test_proxy_counts_method_calls	../koans/about_proxy_object_project.py	/^    def test_proxy_counts_method_calls(self):$/;"	kind:member	line:73
+test_proxy_handles_invalid_messages	../koans/about_proxy_object_project.py	/^    def test_proxy_handles_invalid_messages(self):$/;"	kind:member	line:56
+test_proxy_method_returns_wrapped_object	../koans/about_proxy_object_project.py	/^    def test_proxy_method_returns_wrapped_object(self):$/;"	kind:member	line:33
+test_proxy_records_messages_sent_to_tv	../koans/about_proxy_object_project.py	/^    def test_proxy_records_messages_sent_to_tv(self):$/;"	kind:member	line:48
+test_proxy_reports_methods_have_been_called	../koans/about_proxy_object_project.py	/^    def test_proxy_reports_methods_have_been_called(self):$/;"	kind:member	line:64
+test_raising_a_specific_error	../koans/about_exceptions.py	/^    def test_raising_a_specific_error(self):$/;"	kind:member	line:37
+test_ranges_with_steps	../koans/about_lists.py	/^    def test_ranges_with_steps(self):$/;"	kind:member	line:60
+test_raw_strings_are_also_strings	../koans/about_strings.py	/^    def test_raw_strings_are_also_strings(self):$/;"	kind:member	line:24
+test_raw_strings_do_not_interpret_escape_characters	../koans/about_string_manipulation.py	/^    def test_raw_strings_do_not_interpret_escape_characters(self):$/;"	kind:member	line:57
+test_reduce_will_blow_your_mind	../koans/about_iteration.py	/^    def test_reduce_will_blow_your_mind(self):$/;"	kind:member	line:91
+test_repr_provides_a_more_complete_string_version	../koans/about_classes.py	/^    def test_repr_provides_a_more_complete_string_version(self):$/;"	kind:member	line:157
+test_rolling_the_dice_returns_a_set_of_integers_between_1_and_6	../koans/about_dice_project.py	/^    def test_rolling_the_dice_returns_a_set_of_integers_between_1_and_6(self):$/;"	kind:member	line:26
+test_scalene_triangles_have_no_equal_sides	../koans/about_triangle_project.py	/^    def test_scalene_triangles_have_no_equal_sides(self):$/;"	kind:member	line:20
+test_score_of_a_single_roll_of_1_is_100	../koans/about_scoring_project.py	/^    def test_score_of_a_single_roll_of_1_is_100(self):$/;"	kind:member	line:46
+test_score_of_a_single_roll_of_5_is_50	../koans/about_scoring_project.py	/^    def test_score_of_a_single_roll_of_5_is_50(self):$/;"	kind:member	line:43
+test_score_of_a_triple_1_is_1000	../koans/about_scoring_project.py	/^    def test_score_of_a_triple_1_is_1000(self):$/;"	kind:member	line:55
+test_score_of_an_empty_list_is_zero	../koans/about_scoring_project.py	/^    def test_score_of_an_empty_list_is_zero(self):$/;"	kind:member	line:40
+test_score_of_mixed_is_sum	../koans/about_scoring_project.py	/^    def test_score_of_mixed_is_sum(self):$/;"	kind:member	line:65
+test_score_of_multiple_1s_and_5s_is_the_sum_of_individual_scores	../koans/about_scoring_project.py	/^    def test_score_of_multiple_1s_and_5s_is_the_sum_of_individual_scores(self):$/;"	kind:member	line:49
+test_score_of_other_triples_is_100x	../koans/about_scoring_project.py	/^    def test_score_of_other_triples_is_100x(self):$/;"	kind:member	line:58
+test_score_of_single_2s_3s_4s_and_6s_are_zero	../koans/about_scoring_project.py	/^    def test_score_of_single_2s_3s_4s_and_6s_are_zero(self):$/;"	kind:member	line:52
+test_send_none_is_equivalent_to_next	../koans/about_generators.py	/^    def test_send_none_is_equivalent_to_next(self):$/;"	kind:member	line:137
+test_sensei.py	../runner/runner_tests/test_sensei.py	1;"	kind:file	line:1
+test_set_descriptor_changes_behavior_of_attribute_assignment	../koans/about_method_bindings.py	/^    def test_set_descriptor_changes_behavior_of_attribute_assignment(self):$/;"	kind:member	line:86
+test_set_have_arithmetic_operators	../koans/about_sets.py	/^    def test_set_have_arithmetic_operators(self):$/;"	kind:member	line:36
+test_setattr_intercepts_attribute_assignments	../koans/about_attribute_access.py	/^    def test_setattr_intercepts_attribute_assignments(self):$/;"	kind:member	line:163
+test_sets_make_keep_lists_unique	../koans/about_sets.py	/^    def test_sets_make_keep_lists_unique(self):$/;"	kind:member	line:7
+test_setting_attributes_on_a_bound_method_directly	../koans/about_method_bindings.py	/^    def test_setting_attributes_on_a_bound_method_directly(self):$/;"	kind:member	line:39
+test_setting_attributes_on_an_unbound_function	../koans/about_method_bindings.py	/^    def test_setting_attributes_on_an_unbound_function(self):$/;"	kind:member	line:35
+test_setting_attributes_on_methods_by_accessing_the_inner_function	../koans/about_method_bindings.py	/^    def test_setting_attributes_on_methods_by_accessing_the_inner_function(self):$/;"	kind:member	line:43
+test_since_classes_are_objects_you_can_define_singleton_methods_on_them_too	../koans/about_class_attributes.py	/^    def test_since_classes_are_objects_you_can_define_singleton_methods_on_them_too(self):$/;"	kind:member	line:77
+test_single_characters_can_be_represented_by_integers	../koans/about_string_manipulation.py	/^    def test_single_characters_can_be_represented_by_integers(self):$/;"	kind:member	line:36
+test_single_quoted_strings_are_also_strings	../koans/about_strings.py	/^    def test_single_quoted_strings_are_also_strings(self):$/;"	kind:member	line:12
+test_slicing_lists	../koans/about_lists.py	/^    def test_slicing_lists(self):$/;"	kind:member	line:37
+test_slicing_to_the_edge	../koans/about_lists.py	/^    def test_slicing_to_the_edge(self):$/;"	kind:member	line:48
+test_staticmethods_also_overshadow_instance_methods	../koans/about_class_attributes.py	/^    def test_staticmethods_also_overshadow_instance_methods(self):$/;"	kind:member	line:88
+test_staticmethods_are_unbound_functions_housed_in_a_class	../koans/about_class_attributes.py	/^    def test_staticmethods_are_unbound_functions_housed_in_a_class(self):$/;"	kind:member	line:85
+test_str_is_used_explicitly_in_string_interpolation	../koans/about_classes.py	/^    def test_str_is_used_explicitly_in_string_interpolation(self):$/;"	kind:member	line:152
+test_str_provides_a_string_version_of_the_object	../koans/about_classes.py	/^    def test_str_provides_a_string_version_of_the_object(self):$/;"	kind:member	line:147
+test_str_without_self_prefix_stays_in_the_global_scope	../koans/about_scope.py	/^    def test_str_without_self_prefix_stays_in_the_global_scope(self):$/;"	kind:member	line:43
+test_strings_can_be_joined	../koans/about_string_manipulation.py	/^    def test_strings_can_be_joined(self):$/;"	kind:member	line:65
+test_strings_can_be_split	../koans/about_string_manipulation.py	/^    def test_strings_can_be_split(self):$/;"	kind:member	line:40
+test_strings_can_be_split_with_different_patterns	../koans/about_string_manipulation.py	/^    def test_strings_can_be_split_with_different_patterns(self):$/;"	kind:member	line:45
+test_strings_can_change_case	../koans/about_string_manipulation.py	/^    def test_strings_can_change_case(self):$/;"	kind:member	line:69
+test_subclasses_add_new_behavior	../koans/about_inheritance.py	/^    def test_subclasses_add_new_behavior(self):$/;"	kind:member	line:38
+test_subclasses_can_invoke_parent_behavior_via_super	../koans/about_inheritance.py	/^    def test_subclasses_can_invoke_parent_behavior_via_super(self):$/;"	kind:member	line:59
+test_subclasses_can_modify_existing_behavior	../koans/about_inheritance.py	/^    def test_subclasses_can_modify_existing_behavior(self):$/;"	kind:member	line:45
+test_subclasses_have_the_parent_as_an_ancestor	../koans/about_inheritance.py	/^    def test_subclasses_have_the_parent_as_an_ancestor(self):$/;"	kind:member	line:25
+test_subclasses_of_built_in_classes_can_be_be_monkey_patched	../koans/about_monkey_patching.py	/^    def test_subclasses_of_built_in_classes_can_be_be_monkey_patched(self):$/;"	kind:member	line:44
+test_subfolders_become_modules_if_they_have_an_init_module	../koans/about_packages.py	/^    def test_subfolders_become_modules_if_they_have_an_init_module(self):$/;"	kind:member	line:34
+test_subfolders_can_form_part_of_a_module_package	../koans/about_packages.py	/^    def test_subfolders_can_form_part_of_a_module_package(self):$/;"	kind:member	line:27
+test_super_class_methods_are_higher_priority_than_super_super_classes	../koans/about_multiple_inheritance.py	/^    def test_super_class_methods_are_higher_priority_than_super_super_classes(self):$/;"	kind:member	line:111
+test_super_works_across_methods	../koans/about_inheritance.py	/^    def test_super_works_across_methods(self):$/;"	kind:member	line:69
+test_swapping_with_parallel_assignment	../koans/about_list_assignments.py	/^    def test_swapping_with_parallel_assignment(self):$/;"	kind:member	line:31
+test_testcase_names_appear_in_testsuite	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_testcase_names_appear_in_testsuite(self):$/;"	kind:member	line:88
+test_that_error_report_features_a_stack_dump	../runner/runner_tests/test_sensei.py	/^    def test_that_error_report_features_a_stack_dump(self):$/;"	kind:member	line:159
+test_that_get_class_name_works_with_a_4	../runner/runner_tests/test_helper.py	/^    def test_that_get_class_name_works_with_a_4(self):$/;"	kind:member	line:13
+test_that_get_class_name_works_with_a_string_instance	../runner/runner_tests/test_helper.py	/^    def test_that_get_class_name_works_with_a_string_instance(self):$/;"	kind:member	line:10
+test_that_get_class_name_works_with_a_tuple	../runner/runner_tests/test_helper.py	/^    def test_that_get_class_name_works_with_a_tuple(self):$/;"	kind:member	line:16
+test_that_if_there_are_0_successes_it_will_say_the_first_zen_of_python_koans	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_are_0_successes_it_will_say_the_first_zen_of_python_koans(self):$/;"	kind:member	line:209
+test_that_if_there_are_10_successes_it_will_say_the_sixth_zen_of_python_koans	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_are_10_successes_it_will_say_the_sixth_zen_of_python_koans(self):$/;"	kind:member	line:223
+test_that_if_there_are_36_successes_it_will_say_the_final_zen_of_python_koans	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_are_36_successes_it_will_say_the_final_zen_of_python_koans(self):$/;"	kind:member	line:230
+test_that_if_there_are_37_successes_it_will_say_the_first_zen_of_python_koans_again	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_are_37_successes_it_will_say_the_first_zen_of_python_koans_again(self):$/;"	kind:member	line:237
+test_that_if_there_are_no_failures_say_the_final_zenlike_remark	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_are_no_failures_say_the_final_zenlike_remark(self):$/;"	kind:member	line:202
+test_that_if_there_is_1_success_it_will_say_the_second_zen_of_python_koans	../runner/runner_tests/test_sensei.py	/^    def test_that_if_there_is_1_success_it_will_say_the_second_zen_of_python_koans(self):$/;"	kind:member	line:216
+test_that_it_increases_the_passes_on_every_success	../runner/runner_tests/test_sensei.py	/^    def test_that_it_increases_the_passes_on_every_success(self):$/;"	kind:member	line:94
+test_that_it_successes_only_count_if_passes_are_currently_allowed	../runner/runner_tests/test_sensei.py	/^    def test_that_it_successes_only_count_if_passes_are_currently_allowed(self):$/;"	kind:member	line:88
+test_that_it_will_choose_correct_first_result_with_lines_9_and_27	../runner/runner_tests/test_sensei.py	/^    def test_that_it_will_choose_correct_first_result_with_lines_9_and_27(self):$/;"	kind:member	line:142
+test_that_it_will_choose_correct_first_result_with_multiline_test_classes	../runner/runner_tests/test_sensei.py	/^    def test_that_it_will_choose_correct_first_result_with_multiline_test_classes(self):$/;"	kind:member	line:150
+test_that_it_will_choose_not_find_anything_with_non_standard_error_trace_string	../runner/runner_tests/test_sensei.py	/^    def test_that_it_will_choose_not_find_anything_with_non_standard_error_trace_string(self):$/;"	kind:member	line:135
+test_that_name_can_be_read_as_a_property	../koans/about_classes.py	/^    def test_that_name_can_be_read_as_a_property(self):$/;"	kind:member	line:67
+test_that_nothing_is_returned_as_sorted_result_if_there_are_3_shuffled_results	../runner/runner_tests/test_sensei.py	/^    def test_that_nothing_is_returned_as_sorted_result_if_there_are_3_shuffled_results(self):$/;"	kind:member	line:112
+test_that_nothing_is_returned_as_sorted_result_if_there_are_no_failures	../runner/runner_tests/test_sensei.py	/^    def test_that_nothing_is_returned_as_sorted_result_if_there_are_no_failures(self):$/;"	kind:member	line:100
+test_that_nothing_is_returned_as_sorted_result_if_there_are_no_relevent_failures	../runner/runner_tests/test_sensei.py	/^    def test_that_nothing_is_returned_as_sorted_result_if_there_are_no_relevent_failures(self):$/;"	kind:member	line:104
+test_that_old_methods_are_hidden_by_redefinitions	../koans/about_methods.py	/^    def test_that_old_methods_are_hidden_by_redefinitions(self):$/;"	kind:member	line:94
+test_that_overlapped_method_is_still_there	../koans/about_methods.py	/^    def test_that_overlapped_method_is_still_there(self):$/;"	kind:member	line:97
+test_that_scraping_a_non_existent_stack_dump_gives_you_nothing	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_a_non_existent_stack_dump_gives_you_nothing(self):$/;"	kind:member	line:199
+test_that_scraping_the_assertion_error_with_assert_equals	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_assert_equals(self):$/;"	kind:member	line:173
+test_that_scraping_the_assertion_error_with_assert_true	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_assert_true(self):$/;"	kind:member	line:177
+test_that_scraping_the_assertion_error_with_list_error	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_list_error(self):$/;"	kind:member	line:185
+test_that_scraping_the_assertion_error_with_messaged_assert	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_messaged_assert(self):$/;"	kind:member	line:169
+test_that_scraping_the_assertion_error_with_nothing_gives_you_a_blank_back	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_nothing_gives_you_a_blank_back(self):$/;"	kind:member	line:166
+test_that_scraping_the_assertion_error_with_syntax_error	../runner/runner_tests/test_sensei.py	/^    def test_that_scraping_the_assertion_error_with_syntax_error(self):$/;"	kind:member	line:181
+test_that_sometimes_we_need_to_know_the_class_type	../koans/about_asserts.py	/^    def test_that_sometimes_we_need_to_know_the_class_type(self):$/;"	kind:member	line:56
+test_that_total_lessons_return_0_if_all_lessons_is_none	../runner/runner_tests/test_sensei.py	/^    def test_that_total_lessons_return_0_if_all_lessons_is_none(self):$/;"	kind:member	line:249
+test_that_total_lessons_return_7_if_there_are_7_lessons	../runner/runner_tests/test_sensei.py	/^    def test_that_total_lessons_return_7_if_there_are_7_lessons(self):$/;"	kind:member	line:244
+test_that_unittest_asserts_work_the_same_way_as_python_asserts	../koans/about_asserts.py	/^    def test_that_unittest_asserts_work_the_same_way_as_python_asserts(self):$/;"	kind:member	line:48
+test_the_documentation_can_be_viewed_with_the_doc_method	../koans/about_methods.py	/^    def test_the_documentation_can_be_viewed_with_the_doc_method(self):$/;"	kind:member	line:128
+test_total_koans_return_43_if_there_are_43_test_cases	../runner/runner_tests/test_sensei.py	/^    def test_total_koans_return_43_if_there_are_43_test_cases(self):$/;"	kind:member	line:254
+test_triple_quote_strings_are_also_strings	../koans/about_strings.py	/^    def test_triple_quote_strings_are_also_strings(self):$/;"	kind:member	line:16
+test_triple_quoted_strings_can_span_lines	../koans/about_strings.py	/^    def test_triple_quoted_strings_can_span_lines(self):$/;"	kind:member	line:46
+test_triple_quoted_strings_need_less_escaping	../koans/about_strings.py	/^    def test_triple_quoted_strings_need_less_escaping(self):$/;"	kind:function	line:53
+test_triple_single_quotes_work_too	../koans/about_strings.py	/^    def test_triple_single_quotes_work_too(self):$/;"	kind:member	line:20
+test_true_is_treated_as_true	../koans/about_true_and_false.py	/^    def test_true_is_treated_as_true(self):$/;"	kind:member	line:14
+test_try_clause	../koans/about_exceptions.py	/^    def test_try_clause(self):$/;"	kind:member	line:18
+test_tuple_constructor_can_be_surprising	../koans/about_tuples.py	/^    def test_tuple_constructor_can_be_surprising(self):$/;"	kind:member	line:44
+test_tuples_are_good_for_representing_records	../koans/about_tuples.py	/^    def test_tuples_are_good_for_representing_records(self):$/;"	kind:member	line:57
+test_tuples_are_immutable_so_appending_is_not_possible	../koans/about_tuples.py	/^    def test_tuples_are_immutable_so_appending_is_not_possible(self):$/;"	kind:member	line:24
+test_tuples_are_immutable_so_item_assignment_is_not_possible	../koans/about_tuples.py	/^    def test_tuples_are_immutable_so_item_assignment_is_not_possible(self):$/;"	kind:member	line:11
+test_tuples_can_be_embedded	../koans/about_tuples.py	/^    def test_tuples_can_be_embedded(self):$/;"	kind:member	line:51
+test_tuples_can_only_be_changed_through_replacement	../koans/about_tuples.py	/^    def test_tuples_can_only_be_changed_through_replacement(self):$/;"	kind:member	line:30
+test_tuples_of_one_look_peculiar	../koans/about_tuples.py	/^    def test_tuples_of_one_look_peculiar(self):$/;"	kind:member	line:39
+test_tv_methods_still_perform_their_function	../koans/about_proxy_object_project.py	/^    def test_tv_methods_still_perform_their_function(self):$/;"	kind:member	line:39
+test_unpacking_tuples_in_list_comprehensions	../koans/about_comprehension.py	/^    def test_unpacking_tuples_in_list_comprehensions(self):$/;"	kind:member	line:28
+test_use_absolute_imports_to_import_upper_level_modules	../koans/about_packages.py	/^    def test_use_absolute_imports_to_import_upper_level_modules(self):$/;"	kind:member	line:42
+test_use_backslash_at_the_end_of_a_line_to_continue_onto_the_next_line	../koans/about_strings.py	/^    def test_use_backslash_at_the_end_of_a_line_to_continue_onto_the_next_line(self):$/;"	kind:member	line:41
+test_use_backslash_for_escaping_quotes_in_strings	../koans/about_strings.py	/^    def test_use_backslash_for_escaping_quotes_in_strings(self):$/;"	kind:member	line:36
+test_use_double_quotes_to_create_strings_with_single_quotes	../koans/about_strings.py	/^    def test_use_double_quotes_to_create_strings_with_single_quotes(self):$/;"	kind:member	line:32
+test_use_format_to_interpolate_variables	../koans/about_string_manipulation.py	/^    def test_use_format_to_interpolate_variables(self):$/;"	kind:member	line:8
+test_use_pass_for_iterations_with_no_body	../koans/about_iteration.py	/^    def test_use_pass_for_iterations_with_no_body(self):$/;"	kind:member	line:110
+test_use_single_quotes_to_create_string_with_double_quotes	../koans/about_strings.py	/^    def test_use_single_quotes_to_create_string_with_double_quotes(self):$/;"	kind:member	line:28
+test_we_can_chain_decorators	../koans/about_decorating_with_classes.py	/^    def test_we_can_chain_decorators(self):$/;"	kind:member	line:125
+test_we_can_compare_subsets	../koans/about_sets.py	/^    def test_we_can_compare_subsets(self):$/;"	kind:member	line:51
+test_we_can_import_multiple_items_at_once	../koans/about_modules.py	/^    def test_we_can_import_multiple_items_at_once(self):$/;"	kind:member	line:28
+test_we_can_inspect_the_method_resolution_order	../koans/about_multiple_inheritance.py	/^    def test_we_can_inspect_the_method_resolution_order(self):$/;"	kind:member	line:115
+test_we_can_query_set_membership	../koans/about_sets.py	/^    def test_we_can_query_set_membership(self):$/;"	kind:member	line:47
+test_what_a_decorator_is_doing_to_a_function	../koans/about_decorating_with_classes.py	/^    def test_what_a_decorator_is_doing_to_a_function(self):$/;"	kind:member	line:76
+test_what_exception_do_you_get_when_calling_nonexistent_methods	../koans/about_none.py	/^    def test_what_exception_do_you_get_when_calling_nonexistent_methods(self):$/;"	kind:member	line:20
+test_which_does_not_return_anything	../koans/about_methods.py	/^    def test_which_does_not_return_anything(self):$/;"	kind:member	line:43
+test_while_statement	../koans/about_control_statements.py	/^    def test_while_statement(self):$/;"	kind:member	line:30
+test_whitespace_is_stripped	../runner/runner_tests/test_path_to_enlightenment.py	/^    def test_whitespace_is_stripped(self):$/;"	kind:member	line:29
+test_you_can_also_access_the_value_out_using_getattr_and_dict	../koans/about_classes.py	/^    def test_you_can_also_access_the_value_out_using_getattr_and_dict(self):$/;"	kind:member	line:40
+test_you_can_define_class_methods_without_using_a_decorator	../koans/about_class_attributes.py	/^    def test_you_can_define_class_methods_without_using_a_decorator(self):$/;"	kind:member	line:144
+test_you_can_define_static_methods_without_using_a_decorator	../koans/about_class_attributes.py	/^    def test_you_can_define_static_methods_without_using_a_decorator(self):$/;"	kind:member	line:147
+test_you_can_get_a_single_character_from_a_string	../koans/about_string_manipulation.py	/^    def test_you_can_get_a_single_character_from_a_string(self):$/;"	kind:member	line:32
+test_you_can_get_a_substring_from_a_string	../koans/about_string_manipulation.py	/^    def test_you_can_get_a_substring_from_a_string(self):$/;"	kind:member	line:28
+test_you_can_reference_nested_classes_using_the_scope_operator	../koans/about_scope.py	/^    def test_you_can_reference_nested_classes_using_the_scope_operator(self):$/;"	kind:member	line:21
+test_you_can_roll_different_numbers_of_dice	../koans/about_dice_project.py	/^    def test_you_can_roll_different_numbers_of_dice(self):$/;"	kind:member	line:60
+test_zero_is_treated_as_false	../koans/about_true_and_false.py	/^    def test_zero_is_treated_as_false(self):$/;"	kind:member	line:23
+tests_del_can_be_overriden	../koans/about_deleting_objects.py	/^    def tests_del_can_be_overriden(self):$/;"	kind:member	line:120
+toilet_brushes	../koans/about_deleting_objects.py	/^        def toilet_brushes(self):$/;"	kind:member	line:30
+total_koans	../runner/sensei.py	/^    def total_koans(self):$/;"	kind:member	line:258
+total_lessons	../runner/sensei.py	/^    def total_lessons(self):$/;"	kind:member	line:251
+triangle	../koans/triangle.py	/^def triangle(a, b, c):$/;"	kind:function	line:19
+triangle.py	../koans/triangle.py	1;"	kind:file	line:1
+truth_value	../koans/about_true_and_false.py	/^    def truth_value(self, condition):$/;"	kind:member	line:8
+unittest	../_runner_tests.py	/^import unittest$/;"	kind:namespace	line:5
+unittest	../runner/koan.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/mockable_test_result.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/mountain.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/path_to_enlightenment.py	/^import unittest$/;"	kind:namespace	line:10
+unittest	../runner/runner_tests/test_helper.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/runner_tests/test_mountain.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/runner_tests/test_path_to_enlightenment.py	/^import unittest$/;"	kind:namespace	line:5
+unittest	../runner/runner_tests/test_sensei.py	/^import unittest$/;"	kind:namespace	line:4
+unittest	../runner/sensei.py	/^import unittest$/;"	kind:namespace	line:4
+values	../koans/about_dice_project.py	/^    def values(self):$/;"	kind:member	line:13
+wag	../koans/about_class_attributes.py	/^        def wag():$/;"	kind:function	line:51
+wag	../koans/about_class_attributes.py	/^        def wag(self):$/;"	kind:member	line:60
+wag	../koans/about_inheritance.py	/^        def wag(self):$/;"	kind:member	line:19
+wag	../koans/about_monkey_patching.py	/^        def wag(self): return "HAPPY"$/;"	kind:function	line:23
+walk_the_path	../runner/mountain.py	/^    def walk_the_path(self, args=None):$/;"	kind:member	line:17
+watch_paths	../scent.py	/^watch_paths = ['.', 'koans\/']$/;"	kind:variable	line:4
+win32	../libs/colorama/winterm.py	/^from . import win32$/;"	kind:namespace	line:2
+win32.py	../libs/colorama/win32.py	1;"	kind:file	line:1
+windll	../libs/colorama/ansitowin32.py	/^from .win32 import windll$/;"	kind:namespace	line:7
+windll	../libs/colorama/win32.py	/^    from ctypes import windll$/;"	kind:namespace	line:8
+windll	../libs/colorama/win32.py	/^    windll = None$/;"	kind:variable	line:11
+winterm	../libs/colorama/ansitowin32.py	/^    winterm = WinTerm()$/;"	kind:variable	line:11
+winterm.py	../libs/colorama/winterm.py	1;"	kind:file	line:1
+wintypes	../libs/colorama/win32.py	/^    from ctypes import wintypes$/;"	kind:namespace	line:9
+with	../koans/about_string_manipulation.py	/^        import math # import a standard python module with math functions$/;"	kind:namespace	line:21
+wrap_stream	../libs/colorama/initialise.py	/^def wrap_stream(stream, convert, strip, autoreset, wrap):$/;"	kind:function	line:48
+wrapped_stderr	../libs/colorama/initialise.py	/^wrapped_stderr = sys.stderr$/;"	kind:variable	line:12
+wrapped_stdout	../libs/colorama/initialise.py	/^wrapped_stdout = sys.stdout$/;"	kind:variable	line:11
+write	../libs/colorama/ansitowin32.py	/^    def write(self, text):$/;"	kind:member	line:113
+write	../libs/colorama/ansitowin32.py	/^    def write(self, text):$/;"	kind:member	line:33
+write_and_convert	../libs/colorama/ansitowin32.py	/^    def write_and_convert(self, text):$/;"	kind:member	line:130
+write_plain_text	../libs/colorama/ansitowin32.py	/^    def write_plain_text(self, text, start, end):$/;"	kind:member	line:145
+writeln	../runner/writeln_decorator.py	/^    def writeln(self, arg=None):$/;"	kind:member	line:16
+writeln_decorator.py	../runner/writeln_decorator.py	1;"	kind:file	line:1
+xmltag	../koans/about_decorating_with_functions.py	/^    def xmltag(fn):$/;"	kind:member	line:22
+yield_tester	../koans/about_generators.py	/^    def yield_tester(self):$/;"	kind:member	line:121
